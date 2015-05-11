@@ -1,0 +1,221 @@
+CharType;SILIPACharNum;IPAChar;IPAName;IPADesc
+0;197;≈;UNDEFINED;UNDEFINED
+1;47;/;Glottal Stop;Voiceless Glottal Plosive
+1;59;;;Small Capital L;Voiced Velar Lateral Approximant
+1;63;?;Barred Glottal Stop;Epiglottal plosive
+1;66;B;Beta;Voiced Bilabial Fricative
+1;67;C;C Cedilla;Voiceless Palatal Fricative
+1;68;D;Eth;Voiced Dental Fricative
+1;71;G;Small Capital G;Voiced Uvular Plosive
+1;75;K;Small Capital H;Voiceless epiglottal fricative
+1;76;L;L-Yogh Digraph;Voiced Alveolar Lateral Fricative
+1;77;M;Left-tail M (at right);Voiced Labiodental Nasal
+1;78;N;Eng;Voiced Velar Nasal
+1;82;R;Fish-hook R;Voiced Alveolar Flap
+1;83;S;Esh;Voiceless Postalveolar Fricative
+1;84;T;Theta;Voiceless Dental Fricative
+1;86;V;Cursive V;Voiced Labiodental Approximant
+1;88;X;Chi;Voiceless Uvular Fricative
+1;90;Z;Yogh;Voiced Postalveolar Fricative
+1;98;b;Lower case B;Voiced Bilabial Plosive
+1;99;c;Lower case C;Voiceless Palatal Plosive
+1;100;d;Lower case D;Voiced Alveolar Plosive
+1;102;f;Lower case F;Voiceless Labiodental Fricative
+1;103;g;Lower case G;Voiced Velar Plosive
+1;104;h;Lower case H;Voiceless Glottal Fricative
+1;106;j;Lower case J;Voiced Palatal Approximant
+1;107;k;Lower case K;Voiceless Velar Plosive
+1;108;l;Lower case L;Voiced Alveolar Lateral Approximant
+1;109;m;Lower case M;Voiced Bilabial Nasal
+1;110;n;Lower case N;Voiced Alveolar Nasal
+1;112;p;Lower case P;Voiceless Bilabial Plosive
+1;113;q;Lower case Q;Voiceless Uvular Plosive
+1;114;r;Lower case R;Voiced Alveolar Trill
+1;115;s;Lower case S;Voiceless Alveolar Fricative
+1;116;t;Lower case T;Voiceless Alveolar Plosive
+1;118;v;Lower case V;Voiced Labiodental Fricative
+1;119;w;Lower case W;Voiced labial-velar approximant
+1;120;x;Lower case X;Voiceless Velar Fricative
+1;122;z;Lower case Z;Voiced Alveolar Fricative
+1;123;{;Small Capital R;Voiced Uvular Trill
+1;125;};Right-tail R;Voices Retroflexed Flap
+1;132;Ñ;Double Vertical Line;Alveolar lateral
+1;135;á;Bull's Eye;Bilabial
+1;150;ñ;Vertical Line;Dental
+1;151;ó;Exclamation Point;(Post)alveolar
+1;156;ú;Double-barred Pipe;Palatoalveolar
+1;160;†;Hooktop T;Voiceless Alevolar Implosive - deleted
+1;167;ß;Right-Tail S (at left);Voiced Retroflex Fricative
+1;168;®;Turned R;Voiced Alveolar Approximant
+1;169;©;Hooktop G;Voiced Velar Implosive
+1;178;≤;Small Capital N;Voiced Uvular Nasal
+1;180;¥;Turned Y;Voiced Palatal Lateral Approximant
+1;184;∏;Phi;Voiceless Bilabial Fricative
+1;185;π;Hooktop P (DEL);Voiceless Bilabial Implosive
+1;186;∫;Hooktop B;Voiced Bilabial Implosive
+1;189;Ω;Right-tail Z;Voiced Retroflex Fricative
+1;190;æ;(Dotless J);
+1;192;¿;Barred Reversed Glottal Stop;Voiced epiglottal fricative
+1;194;¬;Belted L;Voiceless Alveolar Lateral Fricative
+1;196;ƒ;Gamma;Voiced Velar Fricative
+1;198;∆;Curly-tail J;Voiced Palatal Fricative
+1;201;…;L with Tilde;
+1;210;“;Inverted Small Capital R;Voiced Uvular Fricative
+1;211;”;Turned R, Right Tail;Voiced Retroflex Apporximant
+1;214;÷;Reversed Glottal Stop;Voiced Pharyngeal Fricative
+1;215;◊;Hooktop Barred Dotless J;Voiced Palatal Implosive
+1;227;„;Turned W;Voiceless labial-velar fricative
+1;228;‰;Turned Long-leg R;
+1;229;Â;Turned M, Right Leg;Voiced Velar Approximant
+1;231;Á;Turned H;Voiced labial palatal approximant
+1;234;Í;Right-tail D;Voiced Retroflex Plosive
+1;235;Î;Hooktop D;Voiced Alevolar Implosive
+1;238;Ó;Hooked Heng;Simultaneous ESH and x
+1;239;Ô;Barred Dotless J;Voiced Palatal Plosive
+1;240;;Crossed H;Voiceless Pharyngeal Fricative
+1;241;Ò;Right-tail L;Voiced Retroflex Lateral Approximant
+1;245;ı;Small Capital B;Voiced Bilabial Trill
+1;247;˜;Right-tail N;Voiced Retroflex Nasal
+1;248;¯;Left-tail N (at left);Voised Palatal Nasal
+1;250;˙;Hooktop H;Voiced Glottal Fricative
+1;251;˚;Hooktop K (DEL);Voiceless Velar Implosive
+1;252;¸;Curly-tail Z;Voiced Alveolo-palatal fricative
+1;253;˝;Hooktop Small Capital G;Voiced Uvular Implosive
+1;254;˛;Curly-tail C;Alveolo-palatal fricative
+1;255;ˇ;Right-tail T;Voiceless Retroflex Plosive
+2;34;";Undotted I;
+2;65;A;Cursive A;Open Back Unrounded
+2;69;E;Epsilon;Open-mid Front Unrounded
+2;70;F;Ram's Horns (Baby Gamma);Close-mid Back Unrounded
+2;73;I;Small Capital I;Near-close Front Unrounded
+2;79;O;Slashed O;Close-mid Front Rounded
+2;80;P;Barred O;Close-mid Central Rounded
+2;81;Q;Ash Digraph;Near-open Fron unrounded
+2;85;U;Upsilon;Near-close Back Rounded
+2;89;Y;Small Capital Y;Near-open Front Unrounded
+2;97;a;Lower case A;Open Front Unrounded
+2;101;e;Lower case E;Close-mid Front Unrounded
+2;105;i;Lower case I;Close Front Unrounded
+2;111;o;Lower case O;Close-mid Back Rounded
+2;117;u;Lower case U;Rounded Close Back
+2;121;y;Lower case Y;Close Front Rounded
+2;129;Å;Turned Cursive A;Open Back Rounded
+2;130;Ç;Reversed E;Close-mid Unrounded
+2;140;å;Turned A;Near-open Central Unrounded
+2;141;ç;Open O;Open-mid Back Rounded
+2;171;´;Schwa;Mid Central Unrounded
+2;172;¨;Barred U;Close Central Rounded
+2;174;Æ;(Undotted Barred I);
+2;175;Ø;Small Capital O-E Digraph;Open-mid Front Rounded
+2;181;µ;Turned M;Close Back Unrounded
+2;191;ø;O-E Digraph;Open Front Rounded
+2;195;√;Turned V;Open-mid Back Unrounded
+2;206;Œ;Reversed Epsilon;Open-mid Central Unrounded
+2;207;œ;Closed Epsilon;Open-mid Central Rounded
+2;212;‘;Right-hook Schwa;
+2;246;ˆ;Barred I;Close Central Unrounded
+3;33;!;Double Acute Accent (o-width);Extra high tone
+3;35;#;Macron (o-width);
+3;36;$;Grave Accent (o-width);Tone low
+3;37;%;Double Grave Accent (o-width);Tone extra low
+3;38;&;Wedge (o-width);Tone Rising
+3;39;';Apostrophe;Ejective
+3;40;(;Breve (o-width);Extra-short
+3;41;);Superscript Tilde (o-width);Nazalized
+3;42;*;Over-ring (o-width);
+3;43;+;Subscript Plus (o-width);Advanced
+3;44;,;Comma;More Rounded
+3;45;-;Subscript Umlaut (o-width);Breathy voiced
+3;46;.;Period;Syllable break
+3;48;0;Subscript Tilde (o-width);Creaky voiced
+3;49;1;Advancing Sign (o-width);Advanced Tongue Root
+3;50;2;Retracting Sign (o-width);Retracted Tongue Root
+3;51;3;Raising Sign (o-width);Raised
+3;52;4;Lowering Sign (o-width);Lowered
+3;53;5;Subscript Bridge;Apical
+3;54;6;Subscript Square;Laminal
+3;55;7;Subscript Left Half-ring;Less Rounded
+3;56;8;Under-ring (o-width);Voiceless
+3;57;9;Subscript Arch (o-width);Non-syllabic
+3;58;:;Superscript L;Lateral Release
+3;60;<;Superscript N;Nasal release
+3;61;=;Under-bar (o-width);Retracted
+3;62;>;Half-length Mark;Half-long
+3;64;@;Acute Accent (o-width);High Tone
+3;72;H;Superscript H;Aspirated
+3;74;J;Superscript J;Palatalized
+3;87;W;Superscript W;Labialized
+3;94;^;Circumflex (o-width);Tone Falling
+3;95;_;Umlaut;Centralized
+3;96;`;Syllabicity Mark;Syllabic
+3;124;|;Corner;
+3;126;~;Over-cross;Mid-centralized
+3;128;Ä;Low rise contour tone;Tone low rising
+3;131;É;Top Tie Bar;Double articulation
+3;133;Ö;Rise fall contour tone;Tone high falling
+3;134;Ü;Fall contour tone;Tone falling
+3;136;à;Double Acute Accent (high o-width);Extra high tone
+3;137;â;Double Acute Accent (high i-width);Extra high tone
+3;138;ä;Extra-high Tone Bar;Tone extra high
+3;139;ã;Up Arrow;Upstep
+3;142;é;Pipe;Minor group
+3;143;è;Acute Accent (high o-width);High tone
+3;144;ê;Acute Accent (high i-width);High tone
+3;145;ë;High Tone Bar;
+3;146;í;Double Pipe;Major group
+3;147;ì;Macron (high o-width);
+3;148;î;Macron (high i-width);
+3;149;ï;Mid Tone Bar;Tone mid
+3;152;ò;Grave Accent (high o-width);Extra high tone
+3;153;ô;Grave Accent (high i-width);Extra high tone
+3;154;ö;Low Tone Bar;Tone Low
+3;155;õ;Down Arrow;Downstep
+3;157;ù;Double Grave Accent (high o-width);Tone extra low
+3;158;û;Double Grave Accent (high i-width);Tone extra low
+3;159;ü;Extra-low Tone Bar;Tone extra-low
+3;161;°;Over Ring (i-width);
+3;162;¢;Lowering Sign (i-width);
+3;163;£;Raising Sign (i-width);Raised
+3;164;§;Subscript Wedge;Voiced
+3;165;•;Under Ring (i-width);Voiceless
+3;166;¶;Subscript Right Half-ring;More rounded
+3;170;™;Retracting Sign (i-width);Retracted Tongue Root
+3;173;≠;Under-bar (i-width);Retracted
+3;176;∞;Inverted Subscript Bridge;Dental
+3;177;±;Subscript Plus (i-width);Advanced
+3;179;≥;Superscript Rev. Glottal Stop;Pharyngealized
+3;187;ª;Subscript Arch (i-width);Non-syllabic
+3;188;º;Subscript Tilde (i-width);Creaky Voiced
+3;193;¡;Advancing Sign (i-width);Advanced Tongue Root
+3;199;«;Vertical Stroke (Inferior);Secondary stress
+3;200;»;Vertical Stroke (Superior);Primary Stress
+3;202; ;(Minute Space);Minute space
+3;203;À;Subscript Plus (Lowered);Raised
+3;204;Ã;Upward Diagonal Arrow;Tone global rise
+3;205;Õ;Downward Diagonal Arrow;Tone global fall
+3;208;–;Subscript Umlaut (i-width);Breathy voiced
+3;209;—;Subscript Seagull;Linguolabial
+3;213;’;Right Hook;Rhoticity
+3;216;ÿ;High rise contour tone;Tone high rising
+3;217;Ÿ;Low fall contour tone;Tone low falling
+3;218;⁄;Double Acute Accent (i-width);Extra high tone
+3;219;€;Acute Accent (i-width);High tone
+3;220;‹;Macron (i-width);
+3;221;›;Grave Accent (i-width);Extra high tone
+3;222;ﬁ;Double Grave Accent (i-width);Tone extra low
+3;223;ﬂ;Circumflex (i-width);Tone extra low
+3;224;‡;Wedge (i-width);Tone Rising
+3;225;·;Breve (i-width);Extra-short
+3;226;‚;Superscript Tilde (i-width);Nasalized
+3;230;Ê;Circumflex (high i-width);Tone extra low
+3;232;Ë;Rise contour tone;Tone rising
+3;233;È;Circumflex (high o-width);Tone extra low
+3;236;Ï;Superscript Gamma;Velarized
+3;237;Ì;Bottom Tie Bar;No break
+3;242;Ú;Superimposed Tilde;
+3;243;Û;Wedge (high i-width);Tone extra low
+3;244;Ù;Wedge (high o-width);Tone extra low
+3;249;˘;Length Mark;Long
+4;91;[;Left Square Bracket;
+4;92;\;(Back slash);Back slash
+4;93;];Right Square Bracket;
