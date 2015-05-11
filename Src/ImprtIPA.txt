@@ -1,0 +1,179 @@
+CharType,SILIPACharNum,IPAName,IPADesc,IsBaseChar
+1,112,Lower case P,Voiceless Bilabial Plosive,Yes
+1,098,Lower case B,Voiced Bilabial Plosive,Yes
+1,116,Lower case T,Voiceless Alveolar Plosive,Yes
+1,100,Lower case D,Voiced Alveolar Plosive,Yes
+1,255,Right-tail T,Voiceless Retroflex Plosive,Yes
+1,234,Right-tail D,Voiced Retroflex Plosive,Yes
+1,099,Lower case C,Voiceless Palatal Plosive,Yes
+1,239,Barred Dotless J,Voiced Palatal Plosive,Yes
+1,107,Lower case K,Voiceless Velar Plosive,Yes
+1,103,Lower case G,Voiced Velar Plosive,Yes
+1,113,Lower case Q,Voiceless Uvular Plosive,Yes
+1,071,Small Capital G,Voiced Uvular Plosive,Yes
+1,063,Glottal Stop,Voiceless Glottal Plosive,Yes
+1,109,Lower case M,Voiced Bilabial Nasal,Yes
+1,077,Left-tail M (at right),Voiced Labiodental Nasal,Yes
+1,110,Lower case N,Voiced Alveolar Nasal,Yes
+1,247,Right-tail N,Voiced Retroflex Nasal,Yes
+1,248,Left-tail N (at left),Voised Palatal Nasal,Yes
+1,078,Eng,Voiced Velar Nasal,Yes
+1,178,Small Capital N,Voiced Uvular Nasal,Yes
+1,245,Small Capital B,Voiced Bilabial Trill,Yes
+1,114,Lower case R,Voiced Alveolar Trill,Yes
+1,123,Small Capital R,Voiced Uvular Trill,Yes
+1,082,Fish-hook R,Voiced Alveolar Flap,Yes
+1,125,Right-tail R,Voices Retroflexed Flap,Yes
+1,184,Phi,Voiceless Bilabial Fricative,Yes
+1,066,Beta,Voiced Bilabial Fricative,Yes
+1,102,Lower case F,Voiceless Labiodental Fricative,Yes
+1,118,Lower case V,Voiced Labiodental Fricative,Yes
+1,084,Theta,Voiceless Dental Fricative,Yes
+1,068,Eth,Voiced Dental Fricative,Yes
+1,115,Lower case S,Voiceless Alveolar Fricative,Yes
+1,122,Lower case Z,Voiced Alveolar Fricative,Yes
+1,083,Esh,Voiceless Postalveolar Fricative,Yes
+1,090,Yogh,Voiced Postalveolar Fricative,Yes
+1,167,Right-Tail S (at left),Voiced Retroflex Fricative,Yes
+1,189,Right-tail Z,Voiced Retroflex Fricative,Yes
+1,067,C Cedilla,Voiceless Palatal Fricative,Yes
+1,198,Curly-tail J,Voiced Palatal Fricative,Yes
+1,120,Lower case X,Voiceless Velar Fricative,Yes
+1,196,Gamma,Voiced Velar Fricative,Yes
+1,088,Chi,Voiceless Uvular Fricative,Yes
+1,210,Inverted Small Capital R,Voiced Uvular Fricative,Yes
+1,240,Crossed H,Voiceless Pharyngeal Fricative,Yes
+1,192,Reversed Glottal Stop,Voiced Pharyngeal Fricative,Yes
+1,104,Lower case H,Voiceless Glottal Fricative,Yes
+1,250,Hooktop H,Voiced Glottal Fricative,Yes
+1,194,Belted L,Voiceless Alveolar Lateral Fricative,Yes
+1,076,L-Yogh Digraph,Voiced Alveolar Lateral Fricative,Yes
+1,086,Script V,Voiced Labiodental Approximant,Yes
+1,168,Turned R,Voiced Alveolar Approximant,Yes
+1,211,Right-tail Turned R,Voiced Retroflex Approximant,Yes
+1,106,Lower case J,Voiced Palatal Approximant,Yes
+1,229,Long Right-legged Turned M,Voiced Velar Approximant,Yes
+1,108,Lower case L,Voiced Alveolar Lateral Approximant,Yes
+1,241,Right-tail L,Voiced Retroflex Lateral Approximant,Yes
+1,180,Turned Y,Voiced Palatal Lateral Approximant,Yes
+1,059,Small Capital L,Voiced Velar Lateral Approximant,Yes
+3,135,Bull's Eye,Bilabial Click,Yes
+3,150,Pipe,Dental Click,Yes
+3,151,Exclamation Point,(Post)alveolar Click,Yes
+3,156,Double-barred Pipe,Palatoalveolar Click,Yes
+3,132,Double pipe,Alveolar Lateral Click,Yes
+3,186,Hooktop B,Voiced Bilabial Implosive,Yes
+3,235,Hooktop D,Voiced Dental/Alevolar Implosive,Yes
+3,215,Barred Esh,Voiced Palatal Implosive,Yes
+3,169,Hooktop G,Voiced Velar Implosive,Yes
+3,253,Hooktop Small Capital G,Voiced Uvular Implosive,Yes
+3,039,Apostrophe,Ejective,No
+4,227,Turned W,Voiceless Labial-velar Fricative,Yes
+4,119,Lower case W,Voiced Labial-velar Approximant,Yes
+4,231,Turned H,Voiced Labial-palatal Approximant,Yes
+4,075,Small Capital H,Voiceless Epiglottal Fricative,Yes
+4,185,Barred Reversed Glottal Stop,Voiced Epiglottal Fricative,Yes
+4,251,Barred Glottal Stop,Epiglottal Plosive,Yes
+4,254,Curly-tail C,Alveolo-palatal Fricative,Yes
+4,252,Curly-tail Z,Alveolo-palatal Fricative,Yes
+4,228,Turned Long-Legged R,Alveolar Lateral Flap,Yes
+4,238,Hooktop Heng,Simultaneous Esh and x,Yes
+4,131,Upper Tie-bar,Affricate and double articulation joiner,No
+4,233,Lower Tie-bar,Affricate and double articulation joiner,No
+2,105,Lower case I,Close Front Unrounded,Yes
+2,121,Lower case Y,Close Front Rounded,Yes
+2,246,Barred I,Close Central Unrounded,Yes
+2,172,Barred U,Close Central Rounded,Yes
+2,181,Turned M,Close Back Unrounded,Yes
+2,117,Lower case U,Close Back Rounded,Yes
+2,073,Small Capital I,Near-close Front Unrounded,Yes
+2,089,Small Capital Y,Near-open Front Unrounded,Yes
+2,085,Upsilon,Near-close Back Rounded,Yes
+2,101,Lower case E,Close-mid Front Unrounded,Yes
+2,079,Slashed O,Close-mid Front Rounded,Yes
+2,130,Reversed E,Close-mid Unrounded,Yes
+2,080,Barred O,Close-mid Central Rounded,Yes
+2,070,Ram's Horns (Baby Gamma),Close-mid Back Unrounded,Yes
+2,111,Lower case O,Close-mid Back Rounded,Yes
+2,171,Schwa,Mid Central Unrounded,Yes
+2,069,Epsilon,Open-mid Front Unrounded,Yes
+2,191,O-E Digraph,Open Front Rounded,Yes
+2,206,Reversed Epsilon,Open-mid Central Unrounded,Yes
+2,207,Closed Epsilon,Open-mid Central Rounded,Yes
+2,195,Turned V,Open-mid Back Unrounded,Yes
+2,141,Open O,Open-mid Back Rounded,Yes
+2,081,Ash Digraph,Near-open Fron Unrounded,Yes
+2,140,Turned A,Near-open Central Unrounded,Yes
+2,097,Lower case A,Open Front Unrounded,Yes
+2,175,Small Capital O-E Digraph,Open-mid Front Rounded,Yes
+2,065,Script A,Open Back Unrounded,Yes
+2,129,Turned Script A,Open Back Rounded,Yes
+5,200,Vertical Stroke (Superior),Primary Stress,No
+5,199,Vertical Stroke (Inferior),Secondary Stress,No
+5,249,Length Mark,Preceding Letter is Long,No
+5,062,Half-length Mark,Preceding Letter is Half-long,No
+5,225,Breve,Extra Short,No
+5,142,Pipe,Minor (foot) Group,No
+5,146,Double Pipe,Major (intonation) Group,No
+5,046,Period,Syllable break,Yes
+5,237,Short Bottom Tie-bar,Linking (absence of a break),No
+6,137,Double Acute Accent,Extra High Level Tone,No
+6,138,Extra-high Tone Bar,Extra High Level Tone,No
+6,053,Superscript 5,Extra High Level Tone,No
+6,143,Acute Accent,High Level Tone,No
+6,145,High Tone Bar,High Level Tone,No
+6,052,Superscript 4,High Level Tone,No
+6,148,Large Macron,Mid Level Tone,No
+6,149,Mid Tone Bar,Mid Level Tone,No
+6,051,Superscript 3,Mid Level Tone,No
+6,153,Grave Accent,Low Level Tone,No
+6,154,Low Tone Bar,Low Level Tone,No
+6,050,Superscript 2,Low Level Tone,No
+6,158,Double Grave Accent,Extra Low Level Tone,No
+6,159,Extra-low Tone Bar,Extra Low Level Tone,No
+6,049,Superscript 1,Extra Low Level Tone,No
+6,155,Down Arrow,Downstep,No
+6,139,Up Arrow,Upstep,No
+6,243,Wedge,Falling-rising Tone,No
+6,232,Rising Contour Mark,Falling-rising Tone,No
+6,230,Circumflex,Rising-falling Tone,No
+6,134,Falling Contour Mark,Rising-falling Tone,No
+6,157,Macron/Acute,High-rising Tone,No
+6,216,High-rising Contour Mark,High-rising Tone,No
+6,136,Grave-macron Accent,Low-rising Tone,No
+6,128,Low-rising Contour Mark,Low-rising Tone,No
+6,040,,Rising-falling Tone,No
+6,202,Rising-falling coutour Mark,Rising-falling Tone,No
+6,204,NE Diagonal Up Arrow,Global Rise,No
+6,205,SE Diagonal Down Arrow,Global Fall,No
+7,056,Under-ring,Voiceless,No
+7,164,Subscript Wedge,Voiced,No
+7,072,Superscript H,Aspirated,No
+7,166,Subscript Right Half-ring,More rounded,No
+7,055,Subscript Left Half-ring,Less Rounded,No
+7,043,Subscript Plus,Advanced,No
+7,061,Under-bar,Retracted,No
+7,095,Umlaut,Centralized,No
+7,126,Over-cross,Mid-centralized,No
+7,096,Syllabicity Mark,Syllabic,No
+7,057,Subscript Arch,Non-syllabic,No
+7,213,Phonetic Right Hook,Rhoticity,No
+7,045,Subscript Umlaut,Breathy voiced,No
+7,188,Subscript Tilde,Creaky Voiced,No
+7,209,Subscript Seagull,Linguolabial,No
+7,087,Superscript W,Labialized,No
+7,074,Superscript J,Palatalized,No
+7,236,Superscript Gamma,Velarized,No
+7,179,Superscript Reverse Glottal Stop,Pharyngealized,No
+7,242,Tilde Through,Velarized or Pharyngealized,No
+7,163,Raising Sign,Raised,No
+7,162,Lowering Sign,Lowered,No
+7,193,Advancing Sign,Advanced Tongue Root,No
+7,170,Retracting Sign,Retracted Tongue Root,No
+7,048,Subscript Bridge,Apical,No
+7,176,Inverted Subscript Bridge,Dental,No
+7,054,Subscript Square,Laminal,No
+7,041,Superscript Tilde,Nazalized,No
+7,060,Superscript N,Nasal release,No
+7,058,Superscript L,Lateral Release,No
+7,124,Corner,No Audible Release,No

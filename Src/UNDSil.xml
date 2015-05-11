@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<IPAWordListDef ID="UND SIL">
+<GeneralInfo>
+<PhoneticFont><Name>SILDoulosIPA</Name><Size>14</Size><Bold>False</Bold><Italic>False</Italic></PhoneticFont>
+<OrthoFont><Name/><Size/><Bold>False</Bold><Italic>False</Italic></OrthoFont>
+<GlossFont><Name/><Size/><Bold>False</Bold><Italic>False</Italic></GlossFont>
+<DialectFont><Name/><Size/><Bold>False</Bold><Italic>False</Italic></DialectFont>
+<SoundPath>C:\Program Files\Speech Tools\ipa-help\Sounds - UndSIL\</SoundPath>
+<GraphicPath/>
+</GeneralInfo>
+<Categories>
+<Category>Phonetics List 1
+<Word><Pitch></Pitch><Phonetic>ÄAf"</Phonetic><Orthographic></Orthographic><Gloss>'arrow'</Gloss><Dialect>Margi (Nigeria)</Dialect><SoundFile>nd-01-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>EBE</Phonetic><Orthographic></Orthographic><Gloss>'people'</Gloss><Dialect>Ewe (Ghana)</Dialect><SoundFile>nd-01-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>EvE</Phonetic><Orthographic></Orthographic><Gloss>'two'</Gloss><Dialect>Ewe</Dialect><SoundFile>nd-01-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>b"n</Phonetic><Orthographic></Orthographic><Gloss>'forest'</Gloss><Dialect>Sindhi (India)</Dialect><SoundFile>nd-01-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>p"nu</Phonetic><Orthographic></Orthographic><Gloss>'leaf'</Gloss><Dialect>Sindhi</Dialect><SoundFile>nd-01-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>n8nin=u</Phonetic><Orthographic></Orthographic><Gloss>'work'</Gloss><Dialect>Atatlahuca Mixtec (Mexico)</Dialect><SoundFile>nd-01-05.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈfixAte</Phonetic><Orthographic></Orthographic><Gloss>'Would you imagine that!'</Gloss><Dialect>Spanish</Dialect><SoundFile>nd-01-06.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>poÈkito</Phonetic><Orthographic></Orthographic><Gloss>'little bit'</Gloss><Dialect>Spanish</Dialect><SoundFile>nd-01-07.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>kubA</Phonetic><Orthographic></Orthographic><Gloss>'to hit'</Gloss><Dialect>Tsonga (South Africa)</Dialect><SoundFile>nd-01-08.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>kuvumbA</Phonetic><Orthographic></Orthographic><Gloss>'to guess'</Gloss><Dialect>Tsonga</Dialect><SoundFile>nd-01-09.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>kuBABA</Phonetic><Orthographic></Orthographic><Gloss>'to be painful'</Gloss><Dialect>Tsonga</Dialect><SoundFile>nd-01-10.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈkHmA</Phonetic><Orthographic></Orthographic><Gloss>'a basket'</Gloss><Dialect>Nosu (China)</Dialect><SoundFile>nd-01-11.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>NAÈm88A</Phonetic><Orthographic></Orthographic><Gloss>'teach me'</Gloss><Dialect>Nosu</Dialect><SoundFile>nd-01-12.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>niÈkHAkobo</Phonetic><Orthographic></Orthographic><Gloss>'Where are you going?'</Gloss><Dialect>Nosu</Dialect><SoundFile>nd-01-13.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>p"enÈfA</Phonetic><Orthographic></Orthographic><Gloss>'way, method'</Gloss><Dialect>Mangghuer (China)</Dialect><SoundFile>nd-01-14.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>nI</Phonetic><Orthographic></Orthographic><Gloss>'this'</Gloss><Dialect>Mangghuerb</Dialect><SoundFile>nd-01-15.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>Phonetics List 2
+<Word><Pitch>  Š   •</Pitch><Phonetic>ÈkFùkF</Phonetic><Orthographic></Orthographic><Gloss>'elder brother'</Gloss><Dialect>Mandarin</Dialect><SoundFile>nd-02-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈBFte</Phonetic><Orthographic></Orthographic><Gloss>'to take'</Gloss><Dialect>Shipibo (Peru)</Dialect><SoundFile>nd-02-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èµndö</Phonetic><Orthographic></Orthographic><Gloss>'banana'</Gloss><Dialect>Nimboran (Indonesia)</Dialect><SoundFile>nd-02-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>by</Phonetic><Orthographic></Orthographic><Gloss>'town'</Gloss><Dialect>Norwegian</Dialect><SoundFile>nd-02-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>b¬</Phonetic><Orthographic></Orthographic><Gloss>'shack'</Gloss><Dialect>Norwegian</Dialect><SoundFile>nd-02-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>  Š  Ù</Pitch><Phonetic>nyze)</Phonetic><Orthographic></Orthographic><Gloss>'woman'</Gloss><Dialect>Sichuanese(Chinise)</Dialect><SoundFile>nd-02-05.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>  Š €</Pitch><Phonetic>mifQ)</Phonetic><Orthographic></Orthographic><Gloss>'rice'</Gloss><Dialect>Sichuanese</Dialect><SoundFile>nd-02-06.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>  € Ù €</Pitch><Phonetic>sQsösö</Phonetic><Orthographic></Orthographic><Gloss>'thirty-four'</Gloss><Dialect>Sichuanese</Dialect><SoundFile>nd-02-07.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch> Ÿ • •  ‘</Pitch><Phonetic>divilaÈo</Phonetic><Orthographic></Orthographic><Gloss>'a guest has come'</Gloss><Dialect>Nosu(China)</Dialect><SoundFile>nd-02-08.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Âond</Phonetic><Orthographic></Orthographic><Gloss>'full'</Gloss><Dialect>Welsh</Dialect><SoundFile>nd-02-09.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>   Š  Ÿ</Pitch><Phonetic>ÈLAùlA</Phonetic><Orthographic></Orthographic><Gloss>'play'</Gloss><Dialect>Zulu (South Africa)</Dialect><SoundFile>nd-02-10.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>nAùnAÂAZI</Phonetic><Orthographic></Orthographic><Gloss>' the other side'</Gloss><Dialect>Navajo (New Mexico)</Dialect><SoundFile>nd-02-11.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>  Š  Š€   • • </Pitch><Phonetic>ÈxikA)i ÈZökö)</Phonetic><Orthographic></Orthographic><Gloss>'he is asking for squash'</Gloss><Dialect>Atatahuca Mixtec</Dialect><SoundFile>nd-02-12.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈSotonùE</Phonetic><Orthographic></Orthographic><Gloss>'a rib'</Gloss><Dialect>Zuni(New Mexico)</Dialect><SoundFile>nd-02-13.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈSotùonùbE</Phonetic><Orthographic></Orthographic><Gloss>'abalone shell'</Gloss><Dialect>Zuni</Dialect><SoundFile>nd-02-14.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>Phonetics List 3
+<Word><Pitch>Ÿ     Ÿ   •   •     Ÿ     Ÿ</Pitch><Phonetic>am8ma v8uma mo)m8mo)</Phonetic><Orthographic></Orthographic><Gloss>'two yellow tortillas'</Gloss><Dialect>Tlapaneco (Mecico)</Dialect><SoundFile>nd-03-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>tsEkEtAni.</Phonetic><Orthographic></Orthographic><Gloss>'smooth'</Gloss><Dialect>Culina (Peru)</Dialect><SoundFile>nd-03-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>dzumE</Phonetic><Orthographic></Orthographic><Gloss>'night'</Gloss><Dialect>Culina</Dialect><SoundFile>nd-03-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>tsHotsHömA?</Phonetic><Orthographic></Orthographic><Gloss>'one person'</Gloss><Dialect>Nosu (China)</Dialect><SoundFile>nd-03-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>   •    ‘   •</Pitch><Phonetic>tsHotsHöma?</Phonetic><Orthographic></Orthographic><Gloss>'this person'</Gloss><Dialect>Nosu</Dialect><SoundFile>nd-03-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>  •  •   Ÿ‘</Pitch><Phonetic>mahadZio?</Phonetic><Orthographic></Orthographic><Gloss>'it is raining'</Gloss><Dialect>Nosu</Dialect><SoundFile>nd-03-05.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>tÂahÈkahtI</Phonetic><Orthographic></Orthographic><Gloss>'it's almost noon'</Gloss><Dialect>Morelos Aztec (Mexico)</Dialect><SoundFile>nd-03-06.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>okIÈBEÂmatH</Phonetic><Orthographic></Orthographic><Gloss>'he liked it'</Gloss><Dialect>Moreles Aztec</Dialect><SoundFile>nd-03-07.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>   Ù  •</Pitch><Phonetic>tSHitHA</Phonetic><Orthographic></Orthographic><Gloss>'other'</Gloss><Dialect>Sichauanese (China)</Dialect><SoundFile>nd-03-08.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch> €    Š  €</Pitch><Phonetic>jawtSiko</Phonetic><Orthographic></Orthographic><Gloss>'how many do you want?'</Gloss><Dialect>Sichuanese</Dialect><SoundFile>nd-03-09.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>wa?oha?oÈjo?o</Phonetic><Orthographic></Orthographic><Gloss>'don't laugh'</Gloss><Dialect>Foi (Papua New Guinea)</Dialect><SoundFile>nd-03-10.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>BIhpo8tsI8</Phonetic><Orthographic></Orthographic><Gloss>'leaf"</Gloss><Dialect>Cheyenne (Oklahoma)</Dialect><SoundFile>nd-03-11.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èp¸ini</Phonetic><Orthographic></Orthographic><Gloss>'root'</Gloss><Dialect>Huli (Papua New Guinea)</Dialect><SoundFile>nd-03-12.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èpitu8sö</Phonetic><Orthographic></Orthographic><Gloss>'backwards'</Gloss><Dialect>Comanche (Oklahoma)</Dialect><SoundFile>nd-03-13.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>maÈmu¸i 8 sihka </Phonetic><Orthographic></Orthographic><Gloss>'when he blew his nose'</Gloss><Dialect>Comanche</Dialect><SoundFile>nd-03-14.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>Phonetics List 4
+<Word><Pitch></Pitch><Phonetic>Èqaxe?</Phonetic><Orthographic></Orthographic><Gloss>'mothers sister'</Gloss><Dialect>Montana  salish</Dialect><SoundFile>nd-04-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ï"tu</Phonetic><Orthographic></Orthographic><Gloss>'illiterate'</Gloss><Dialect>Sindhi (India)</Dialect><SoundFile>nd-04-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Ec"</Phonetic><Orthographic></Orthographic><Gloss>'at him'</Gloss><Dialect>Scottish Caelic</Dialect><SoundFile>nd-04-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Ehc"</Phonetic><Orthographic></Orthographic><Gloss>'at her'</Gloss><Dialect>Scottish Gaelic</Dialect><SoundFile>nd-04-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>iÈtsintÂA</Phonetic><Orthographic></Orthographic><Gloss>'underneath it'</Gloss><Dialect>Morelos Aztec (Mexico)</Dialect><SoundFile>nd-04-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>qHAÈGUÿÂ</Phonetic><Orthographic></Orthographic><Gloss>'squeeze'</Gloss><Dialect>Tlingit (Aaska)</Dialect><SoundFile>nd-04-05.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>  Š  •   Ÿ</Pitch><Phonetic>ÈxAkuDE</Phonetic><Orthographic></Orthographic><Gloss>'he is crying'</Gloss><Dialect>Ocotepec Mixtec (Mexico)</Dialect><SoundFile>nd-04-06.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>  Š  Ÿ  Ÿ</Pitch><Phonetic>ÈxAkuDE</Phonetic><Orthographic></Orthographic><Gloss>'he is laughing'</Gloss><Dialect>Ocotepec Mixtec</Dialect><SoundFile>nd-04-07.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>womwom|ÈnA</Phonetic><Orthographic></Orthographic><Gloss>'barking'</Gloss><Dialect>Tabasco Chontal  (Mexico)</Dialect><SoundFile>nd-04-08.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>   •  Š‘   •</Pitch><Phonetic>tsHöNAAmo</Phonetic><Orthographic></Orthographic><Gloss>'she is my mother'</Gloss><Dialect>Nosu (China)</Dialect><SoundFile>nd-04-09.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>   •  ‘Ÿ  •</Pitch><Phonetic>tsHöNAAmo</Phonetic><Orthographic></Orthographic><Gloss>'she doesn't see me'</Gloss><Dialect>Nosu</Dialect><SoundFile>nd-04-10.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>o?odAÈ?Q</Phonetic><Orthographic></Orthographic><Gloss>'I want to go'</Gloss><Dialect>Foi (Papua New Guinea)</Dialect><SoundFile>nd-04-11.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈtQtHA)</Phonetic><Orthographic></Orthographic><Gloss>'corn'</Gloss><Dialect>Otomi (Mexico)</Dialect><SoundFile>nd-04-12.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>?wQ)</Phonetic><Orthographic></Orthographic><Gloss>'gnat'</Gloss><Dialect>Otomi</Dialect><SoundFile>nd-04-13.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>È?jQ)mpi</Phonetic><Orthographic></Orthographic><Gloss>'said it'</Gloss><Dialect>Otomi</Dialect><SoundFile>nd-04-14.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>?jQmpi</Phonetic><Orthographic></Orthographic><Gloss>'throw it'</Gloss><Dialect>Otomi</Dialect><SoundFile>nd-04-15.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>Phonetics List 5
+<Word><Pitch></Pitch><Phonetic>Èk'apa</Phonetic><Orthographic></Orthographic><Gloss>'bear'</Gloss><Dialect>Nisenan (California)</Dialect><SoundFile>nd-05-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>È?uk'ojmukum</Phonetic><Orthographic></Orthographic><Gloss>'went'</Gloss><Dialect>Nisenan</Dialect><SoundFile>nd-05-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èt'aq'"n</Phonetic><Orthographic></Orthographic><Gloss>'six'</Gloss><Dialect>Montant Salish</Dialect><SoundFile>nd-05-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÿ"nu</Phonetic><Orthographic></Orthographic><Gloss>'ton'</Gloss><Dialect>Sindhi India</Dialect><SoundFile>nd-05-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>kH"÷u</Phonetic><Orthographic></Orthographic><Gloss>'you lift'</Gloss><Dialect>Sindhi</Dialect><SoundFile>nd-05-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>tÂ'atÂ'</Phonetic><Orthographic></Orthographic><Gloss>'yellow'</Gloss><Dialect>Tlingit (Alaska)</Dialect><SoundFile>nd-05-05.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>kHuÈtS'et'a</Phonetic><Orthographic></Orthographic><Gloss>'ball'</Gloss><Dialect>Tlingit</Dialect><SoundFile>nd-05-06.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Âk'"k'</Phonetic><Orthographic></Orthographic><Gloss>'ashes'</Gloss><Dialect>Tepehua (Mexico)</Dialect><SoundFile>nd-05-07.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>k'xÂts</Phonetic><Orthographic></Orthographic><Gloss>'I looked'</Gloss><Dialect>Bella Coola (Canada)</Dialect><SoundFile>nd-05-08.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>   ŸŸ •  •</Pitch><Phonetic>tsHöambo?</Phonetic><Orthographic></Orthographic><Gloss>'his daughter goes'</Gloss><Dialect>Nosu (China)</Dialect><SoundFile>nd-05-09.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>   •Ÿ    Ÿ</Pitch><Phonetic>tsHöaÉbo?</Phonetic><Orthographic></Orthographic><Gloss>'he is unkind'</Gloss><Dialect>Nosu</Dialect><SoundFile>nd-05-10.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>wuêuñu</Phonetic><Orthographic></Orthographic><Gloss>'in the stomach'</Gloss><Dialect>Yanyuwa (Austraila)</Dialect><SoundFile>nd-05-11.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>wun0un0u</Phonetic><Orthographic></Orthographic><Gloss>'cooked'</Gloss><Dialect>Yanyuwa</Dialect><SoundFile>nd-05-12.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>tHkatHkakHÈtatHka</Phonetic><Orthographic></Orthographic><Gloss>'she has been bathed by someone now' </Gloss><Dialect>Piro (Peru)</Dialect><SoundFile>nd-05-13.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èbaho?HtH</Phonetic><Orthographic></Orthographic><Gloss>'they see them'</Gloss><Dialect>Pame (Mexico)</Dialect><SoundFile>nd-05-14.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch> Š  Š</Pitch><Phonetic>baRaù</Phonetic><Orthographic></Orthographic><Gloss>'servant'</Gloss><Dialect>Hausa(Nigeria)</Dialect><SoundFile>nd-05-15.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch> Š  Ÿ</Pitch><Phonetic>ba}aù</Phonetic><Orthographic></Orthographic><Gloss>'begging'</Gloss><Dialect>Hausa</Dialect><SoundFile>nd-05-16.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>Phonetics List 6
+<Word><Pitch></Pitch><Phonetic>ÈëApùE</Phonetic><Orthographic></Orthographic><Gloss>'coyote'</Gloss><Dialect>Nisenan (California)</Dialect><SoundFile>nd-06-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>iNÈkÈAºi</Phonetic><Orthographic></Orthographic><Gloss>'ox'</Gloss><Dialect>Zulu (South Africa)</Dialect><SoundFile>nd-06-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈëAkHA</Phonetic><Orthographic></Orthographic><Gloss>'inside a house'</Gloss><Dialect>Hausa (Nigeria)</Dialect><SoundFile>nd-06-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈdAkHA</Phonetic><Orthographic></Orthographic><Gloss>'pounding'</Gloss><Dialect>Hausa</Dialect><SoundFile>nd-06-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>d0Al</Phonetic><Orthographic></Orthographic><Gloss>'lentil'</Gloss><Dialect>Hindi (India)</Dialect><SoundFile>nd-06-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>êAl</Phonetic><Orthographic></Orthographic><Gloss>'branch'</Gloss><Dialect>Hindi</Dialect><SoundFile>nd-06-05.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>.êAl</Phonetic><Orthographic></Orthographic><Gloss>'shield'</Gloss><Dialect>Hindi</Dialect><SoundFile>nd-06-06.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>b-Al</Phonetic><Orthographic></Orthographic><Gloss>'forehead'</Gloss><Dialect>Hindi</Dialect><SoundFile>nd-06-07.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>mAr</Phonetic><Orthographic></Orthographic><Gloss>'husband'</Gloss><Dialect>Ingush (Russia)</Dialect><SoundFile>nd-06-08.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>vwr8</Phonetic><Orthographic></Orthographic><Gloss>'seven'</Gloss><Dialect>Ingush</Dialect><SoundFile>nd-06-09.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>gA{i</Phonetic><Orthographic></Orthographic><Gloss>'oak tree'</Gloss><Dialect>Eastern Occitan (France)</Dialect><SoundFile>nd-06-10.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈðAml"n</Phonetic><Orthographic></Orthographic><Gloss>'standing'</Gloss><Dialect>Chaldean Aramaic</Dialect><SoundFile>nd-06-11.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>È?eÀed0il 0</Phonetic><Orthographic></Orthographic><Gloss>'beautiful'</Gloss><Dialect>Moroccan Berber</Dialect><SoundFile>nd-06-12.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>È?AðmA</Phonetic><Orthographic></Orthographic><Gloss>'heat'</Gloss><Dialect>Moroccan Berber</Dialect><SoundFile>nd-06-13.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈkƒpakƒpE?</Phonetic><Orthographic></Orthographic><Gloss>'frog'</Gloss><Dialect>Kate (Papua New Guinea)</Dialect><SoundFile>nd-06-14.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Ègƒbiti</Phonetic><Orthographic></Orthographic><Gloss>'bunch'</Gloss><Dialect>Kate</Dialect><SoundFile>nd-06-15.wav</SoundFile><GraphicFile></GraphicFile>
+</Word>
+</Category>
+</Categories></IPAWordListDef>

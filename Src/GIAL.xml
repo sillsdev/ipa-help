@@ -1,0 +1,265 @@
+<?xml version="1.0"?>
+<IPAWordListDef ID="GIAL">
+<GeneralInfo>
+<PhoneticFont><Name>SILDoulosIPA</Name><Size>14</Size><Bold>False</Bold><Italic>False</Italic></PhoneticFont>
+<OrthoFont><Name/><Size/><Bold>False</Bold><Italic>False</Italic></OrthoFont>
+<GlossFont><Name/><Size/><Bold>False</Bold><Italic>False</Italic></GlossFont>
+<DialectFont><Name/><Size/><Bold>False</Bold><Italic>False</Italic></DialectFont>
+<SoundPath>C:\Program Files\Speech Tools\ipa-help\Sounds - GIAL\</SoundPath>
+<GraphicPath/>
+</GeneralInfo>
+<Categories>
+<Category>1. Fricatives
+<Word><Pitch></Pitch><Phonetic>ÈdiÄA</Phonetic><Orthographic></Orthographic><Gloss>'speak'</Gloss><Dialect>Spanish</Dialect><SoundFile>tx-01-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈoxA</Phonetic><Orthographic></Orthographic><Gloss>'leaf'</Gloss><Dialect>Spanish</Dialect><SoundFile>tx-01-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈABi</Phonetic><Orthographic></Orthographic><Gloss>'tapir'</Gloss><Dialect>Culina (Peru)</Dialect><SoundFile>tx-01-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈBiDA</Phonetic><Orthographic></Orthographic><Gloss>'life'</Gloss><Dialect>Spanish</Dialect><SoundFile>tx-01-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>eÈDAD</Phonetic><Orthographic></Orthographic><Gloss>'age'</Gloss><Dialect>Spanish</Dialect><SoundFile>tx-01-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>2. Stops
+<Word><Pitch></Pitch><Phonetic>BiÈtHo</Phonetic><Orthographic></Orthographic><Gloss>'he goes'</Gloss><Dialect>Huautla Mazatec (Mexico)</Dialect><SoundFile>tx-02-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>eÈxote</Phonetic><Orthographic></Orthographic><Gloss>'green bean'</Gloss><Dialect>Spanish</Dialect><SoundFile>tx-02-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>poÈkito</Phonetic><Orthographic></Orthographic><Gloss>'a very little'</Gloss><Dialect>Spanish</Dialect><SoundFile>tx-02-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Ègudu</Phonetic><Orthographic></Orthographic><Gloss>'skirt'</Gloss><Dialect>Carib (Central America)</Dialect><SoundFile>tx-02-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈkokobA</Phonetic><Orthographic></Orthographic><Gloss>'hammer'</Gloss><Dialect>Culina (Peru)</Dialect><SoundFile>tx-02-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>3. Vowels
+<Word><Pitch></Pitch><Phonetic>wUt</Phonetic><Orthographic></Orthographic><Gloss>'village'</Gloss><Dialect>Dinka (Sudan)</Dialect><SoundFile>tx-03-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>m«tH</Phonetic><Orthographic></Orthographic><Gloss>'dog'</Gloss><Dialect>English</Dialect><SoundFile>tx-03-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èkome</Phonetic><Orthographic></Orthographic><Gloss>'metal'</Gloss><Dialect>Macuna (Colombia)</Dialect><SoundFile>tx-03-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>depH</Phonetic><Orthographic></Orthographic><Gloss>'devil'</Gloss><Dialect>Guayabero (Colombia)</Dialect><SoundFile>tx-03-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈIbItA</Phonetic><Orthographic></Orthographic><Gloss>'road'</Gloss><Dialect>Tunebo (Colombia)</Dialect><SoundFile>tx-03-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>pQg</Phonetic><Orthographic></Orthographic><Gloss>'type of fruit'</Gloss><Dialect>Jupda (Colombia)</Dialect><SoundFile>tx-03-05.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈttE</Phonetic><Orthographic></Orthographic><Gloss>'run (water)'</Gloss><Dialect>Huitoto (Colombia)</Dialect><SoundFile>tx-03-06.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>4. Rounded/Unrounded Vowels
+<Word><Pitch></Pitch><Phonetic>ÈöBi</Phonetic><Orthographic></Orthographic><Gloss>'boa constrictor'</Gloss><Dialect>Carib (Central America)</Dialect><SoundFile>tx-04-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈuBi</Phonetic><Orthographic></Orthographic><Gloss>'meat'</Gloss><Dialect>Carib</Dialect><SoundFile>tx-04-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>pyf</Phonetic><Orthographic></Orthographic><Gloss>'exaggerated statement'</Gloss><Dialect>French</Dialect><SoundFile>tx-04-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>tHµÈbµ</Phonetic><Orthographic></Orthographic><Gloss>'wood'</Gloss><Dialect>Chami (Colombia)</Dialect><SoundFile>tx-04-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>AÈbAO</Phonetic><Orthographic></Orthographic><Gloss>'work'</Gloss><Dialect>Andoque (Columbia)</Dialect><SoundFile>tx-04-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈtµkAtA</Phonetic><Orthographic></Orthographic><Gloss>'scabies'</Gloss><Dialect>San Miquel el Grande Mixtec (Mexico)</Dialect><SoundFile>tx-04-05.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>5. Voiceless vowels
+<Word><Pitch></Pitch><Phonetic>ÈpitU8sµ4</Phonetic><Orthographic></Orthographic><Gloss>'backwards'</Gloss><Dialect>Comanche (USA)</Dialect><SoundFile>tx-05-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>pEnÈdoko8</Phonetic><Orthographic></Orthographic><Gloss>'Adam's apple'</Gloss><Dialect>Enga (Papua New Guinea)</Dialect><SoundFile>tx-05-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èkimpu8t</Phonetic><Orthographic></Orthographic><Gloss>'nose'</Gloss><Dialect>Cuaiquer (Colombia)</Dialect><SoundFile>tx-05-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>kö¥ÈkinA</Phonetic><Orthographic></Orthographic><Gloss>'to separate'</Gloss><Dialect>Malayo (Colombia)</Dialect><SoundFile>tx-05-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ki¥ÈkinA</Phonetic><Orthographic></Orthographic><Gloss>'to break'</Gloss><Dialect>Malayo (Colombia)</Dialect><SoundFile>tx-05-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>6. Nasalized vowels
+<Word><Pitch></Pitch><Phonetic>ÈtQtHA)</Phonetic><Orthographic></Orthographic><Gloss>'corn'</Gloss><Dialect>Otomi (Mexico)</Dialect><SoundFile>tx-06-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èo)u)9li</Phonetic><Orthographic></Orthographic><Gloss>'dog'</Gloss><Dialect>Carib (Central America)</Dialect><SoundFile>tx-06-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈiA</Phonetic><Orthographic></Orthographic><Gloss>'louse'</Gloss><Dialect>Barasano (Colombia)</Dialect><SoundFile>tx-06-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>È"âA)</Phonetic><Orthographic></Orthographic><Gloss>'type of worm'</Gloss><Dialect>Barasano</Dialect><SoundFile>tx-06-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èse)"»âgö</Phonetic><Orthographic></Orthographic><Gloss>'five'</Gloss><Dialect>Carib</Dialect><SoundFile>tx-06-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>7. Nasals
+<Word><Pitch></Pitch><Phonetic>ÈpAn)A</Phonetic><Orthographic></Orthographic><Gloss>'that' (previously referred to)</Gloss><Dialect>Pitjantjara (Australia)</Dialect><SoundFile>tx-07-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>NAÈNunEN</Phonetic><Orthographic></Orthographic><Gloss>'I sat'</Gloss><Dialect>Gunwingu (Australia)</Dialect><SoundFile>tx-07-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>oÈm8ito</Phonetic><Orthographic></Orthographic><Gloss>'escape'</Gloss><Dialect>Kwanyama (Angola)</Dialect><SoundFile>tx-07-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈpAn8tA</Phonetic><Orthographic></Orthographic><Gloss>'bag'</Gloss><Dialect>Oaxaca Chontal (Mexico)</Dialect><SoundFile>tx-07-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈkumAkA</Phonetic><Orthographic></Orthographic><Gloss>'big'</Gloss><Dialect>Tunebo (Columbia)</Dialect><SoundFile>tx-07-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈAm8mAÈgomA Èm8mu) Èm8mu</Phonetic><Orthographic></Orthographic><Gloss>'two yellow tortillas'</Gloss><Dialect>Tlapaneco (Mexico)</Dialect><SoundFile>tx-07-05.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Am8mA ÄumA mo)m8mo)</Phonetic><Orthographic></Orthographic><Gloss>'two yellow tortillas'</Gloss><Dialect>Tlapaneco (Mexico)  * More authoritative data</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>8. Sibilants
+<Word><Pitch></Pitch><Phonetic>Èse)su</Phonetic><Orthographic></Orthographic><Gloss>'money'</Gloss><Dialect>Carib (Central America)</Dialect><SoundFile>tx-08-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>  Ÿ  •</Pitch><Phonetic>ZAÈto  </Phonetic><Orthographic></Orthographic><Gloss>'rabbit'</Gloss><Dialect>Trique (Mexico)</Dialect><SoundFile>tx-08-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>  •  •</Pitch><Phonetic>ZAÈto  </Phonetic><Orthographic></Orthographic><Gloss>'rabbit'</Gloss><Dialect>Trique (Mexico)  *This tone marking is better than the previous word.</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch> Ÿ Ÿ    •</Pitch><Phonetic>tisiÈkHE</Phonetic><Orthographic></Orthographic><Gloss>'he uses up'</Gloss><Dialect>Highland Mazatec (Mexico)</Dialect><SoundFile>tx-08-09.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch> Š Š    •</Pitch><Phonetic>tisiÈkHE</Phonetic><Orthographic></Orthographic><Gloss>'he uses up'</Gloss><Dialect>Highland Mazatec (Mexico)  *This tone marking is better than the previous word.</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>AÈtASi</Phonetic><Orthographic></Orthographic><Gloss>'green'</Gloss><Dialect>Cogui (Colombia)</Dialect><SoundFile>tx-08-14.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈiZdA</Phonetic><Orthographic></Orthographic><Gloss>'sight'</Gloss><Dialect>Cuaiquer (Colombia)</Dialect><SoundFile>tx-08-15.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>9. Affricates
+<Word><Pitch></Pitch><Phonetic>Èp¸ini</Phonetic><Orthographic></Orthographic><Gloss>'root'</Gloss><Dialect>Huli (Papua New Guinea)</Dialect><SoundFile>tx-09-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈkxAÄo</Phonetic><Orthographic></Orthographic><Gloss>'skin'</Gloss><Dialect>Foi (Papua New Guinea)</Dialect><SoundFile>tx-09-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈtSAmgA</Phonetic><Orthographic></Orthographic><Gloss>'to join'</Gloss><Dialect>Korean</Dialect><SoundFile>tx-09-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>AÈbAdziko</Phonetic><Orthographic></Orthographic><Gloss>'moon'</Gloss><Dialect>Culina (Peru)</Dialect><SoundFile>tx-09-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈdZµkµAµ</Phonetic><Orthographic></Orthographic><Gloss>'meat'</Gloss><Dialect>Huitoto (Colombia)</Dialect><SoundFile>tx-09-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>10. Laterals/lateral affricates
+<Word><Pitch></Pitch><Phonetic>isiÈÂAÂA</Phonetic><Orthographic></Orthographic><Gloss>'bush'</Gloss><Dialect>Zulu (South Africa)</Dialect><SoundFile>tx-10-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈLulA</Phonetic><Orthographic></Orthographic><Gloss>'pass'</Gloss><Dialect>Zulu</Dialect><SoundFile>tx-10-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈtÂxA</Phonetic><Orthographic></Orthographic><Gloss>'to depart'</Gloss><Dialect>Chuana (South Africa)</Dialect><SoundFile>tx-10-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈtHo)gudƒl</Phonetic><Orthographic></Orthographic><Gloss>'soda water'</Gloss><Dialect>Kiowa (USA)</Dialect><SoundFile>tx-10-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>iÈtsintÂA</Phonetic><Orthographic></Orthographic><Gloss>'underneath it'</Gloss><Dialect>Morelos Aztec (Mexico)</Dialect><SoundFile>tx-10-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈÂAÂo</Phonetic><Orthographic></Orthographic><Gloss>'fish'</Gloss><Dialect>Koasati (USA)</Dialect><SoundFile>tx-10-05.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>11. Glottal stop
+<Word><Pitch></Pitch><Phonetic>wA/ohA/oÈjo/o</Phonetic><Orthographic></Orthographic><Gloss>'don't laugh'</Gloss><Dialect>Foi (Papua New Guinea)</Dialect><SoundFile>tx-11-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈjABE</Phonetic><Orthographic></Orthographic><Gloss>'there'</Gloss><Dialect>Highland Mazatec (Mexico)</Dialect><SoundFile>tx-11-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>È/jABE</Phonetic><Orthographic></Orthographic><Gloss>'that rainbow'</Gloss><Dialect>Highland Mazatec</Dialect><SoundFile>tx-11-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈbAho/H</Phonetic><Orthographic></Orthographic><Gloss>'they see it'</Gloss><Dialect>Pame (Mexico)</Dialect><SoundFile>tx-11-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>/öÈ/ö¸otono</Phonetic><Orthographic></Orthographic><Gloss>'to him who arrived'</Gloss><Dialect>Muinane (Colombia)</Dialect><SoundFile>tx-11-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>12. Retroflex sibilants
+<Word><Pitch></Pitch><Phonetic>moS7</Phonetic><Orthographic></Orthographic><Gloss>'beetle'</Gloss><Dialect>Mam (Guatemala)</Dialect><SoundFile>tx-12-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>È/AZ7A</Phonetic><Orthographic></Orthographic><Gloss>'bad, dirty'</Gloss><Dialect>Huichol (Mexico)</Dialect><SoundFile>tx-12-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>÷êZ7A</Phonetic><Orthographic></Orthographic><Gloss>'horn'</Gloss><Dialect>Highland Mazatec (Mexico)</Dialect><SoundFile>tx-12-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>tSo(A(</Phonetic><Orthographic></Orthographic><Gloss>'a little bit'</Gloss><Dialect>Highland Mazatec</Dialect><SoundFile>tx-12-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>tS7o(A(</Phonetic><Orthographic></Orthographic><Gloss>'white'</Gloss><Dialect>Highland Mazatec</Dialect><SoundFile>tx-12-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>tS7Ho(A(</Phonetic><Orthographic></Orthographic><Gloss>'skin'</Gloss><Dialect>Highland Mazatec</Dialect><SoundFile>tx-12-05.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>13. Dental, retroflex alveolar, and retroflex palatoalveola
+r<Word><Pitch></Pitch><Phonetic>ÈAt5A</Phonetic><Orthographic></Orthographic><Gloss>'coming'</Gloss><Dialect>Hindustani (India)</Dialect><SoundFile>tx-13-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈAÿA</Phonetic><Orthographic></Orthographic><Gloss>'whole wheat flour'</Gloss><Dialect>Hindustani</Dialect><SoundFile>tx-13-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èt6AtA</Phonetic><Orthographic></Orthographic><Gloss>'his father'</Gloss><Dialect>Zoque (Mexico)</Dialect><SoundFile>tx-13-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èpi÷A</Phonetic><Orthographic></Orthographic><Gloss>'sand'</Gloss><Dialect>Pitjantjara (Australia)</Dialect><SoundFile>tx-13-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈdZoê</Phonetic><Orthographic></Orthographic><Gloss>'shoe'</Gloss><Dialect>Gujerati (India)</Dialect><SoundFile>tx-13-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>14. Duration
+<Word><Pitch></Pitch><Phonetic>ÈmAsiùto</Phonetic><Orthographic></Orthographic><Gloss>'fingernail'</Gloss><Dialect>Comanche (USA)</Dialect><SoundFile>tx-14-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>SoÈtonùE</Phonetic><Orthographic></Orthographic><Gloss>'rib'</Gloss><Dialect>Zuni (USA)</Dialect><SoundFile>tx-14-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>SoÈtùonùE</Phonetic><Orthographic></Orthographic><Gloss>'abalone shell'</Gloss><Dialect>Zuni</Dialect><SoundFile>tx-14-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈkuùlA</Phonetic><Orthographic></Orthographic><Gloss>'bullet'</Gloss><Dialect>Finnish</Dialect><SoundFile>tx-14-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈkuùlùA</Phonetic><Orthographic></Orthographic><Gloss>'to hear'</Gloss><Dialect>Finnish</Dialect><SoundFile>tx-14-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>15a. Ejagham (T1)
+<Word><Pitch>Š   •  Ÿ Ÿ  Ÿ Š</Pitch><Phonetic>M`fA ARe eBi</Phonetic><Orthographic></Orthographic><Gloss>'Here is a cooking pot.'</Gloss><Dialect>Ejagham  (Cameroon and Nigeria)</Dialect><SoundFile>tx-15a01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>Š   •  Ÿ Ÿ  Ÿ Ÿ</Pitch><Phonetic>M`fA ARe eBi</Phonetic><Orthographic></Orthographic><Gloss>'Here is a mongoose.'</Gloss><Dialect> Ejagham  (Cameroon and Nigeria)</Dialect><SoundFile>tx-15a04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>Š   •  Ÿ Ÿ  Š Š</Pitch><Phonetic>M`fA ARe eBi</Phonetic><Orthographic></Orthographic><Gloss>'Here is a red....'</Gloss><Dialect> Ejagham  (Cameroon and Nigeria)</Dialect><SoundFile>tx-15a07.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>Š   •  Ÿ Ÿ  Ÿ    Ÿ  Ÿ</Pitch><Phonetic>M`fA ARe ekH uBi</Phonetic><Orthographic></Orthographic><Gloss>'Here is a conversation.'</Gloss><Dialect> Ejagham  (Cameroon and Nigeria)</Dialect><SoundFile>tx-15a10.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>Š   •  Ÿ Ÿ  Ÿ    Š  Ÿ</Pitch><Phonetic>M`fA ARe ekH uBi</Phonetic><Orthographic></Orthographic><Gloss>'Here is a wood tick.'</Gloss><Dialect> Ejagham  (Cameroon and Nigeria)</Dialect><SoundFile>tx-15a13.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>15b. Ejagham (T2)
+<Word><Pitch>Š   Ÿ  Ÿ  †   Ÿ   Š   †</Pitch><Phonetic>n` s«Re je b«t| AkHAm</Phonetic><Orthographic></Orthographic><Gloss>'I said to him that they squeezed /agreed.'</Gloss><Dialect> Ejagham  (Cameroon and Nigeria)</Dialect><SoundFile>tx-15b01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>Š   Ÿ  Ÿ  †   Ÿ   Š   …</Pitch><Phonetic>n` s«Re je b«t| AkHAm</Phonetic><Orthographic></Orthographic><Gloss>'I said to him that they should agree.'</Gloss><Dialect> Ejagham  (Cameroon and Nigeria)</Dialect><SoundFile>tx-15b04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>Š   Ÿ  Ÿ  †   Ÿ   Š   è</Pitch><Phonetic>n` s«Re je b«t| AkHAm</Phonetic><Orthographic></Orthographic><Gloss>'I said to him that when they agree.'</Gloss><Dialect> Ejagham  (Cameroon and Nigeria)</Dialect><SoundFile>tx-15b07.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>Š   •  Ÿ Ÿ  †   †</Pitch><Phonetic>M`fA ARe ekHy</Phonetic><Orthographic></Orthographic><Gloss>'Here is an owl.'</Gloss><Dialect> Ejagham  (Cameroon and Nigeria)</Dialect><SoundFile>tx-15b10.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>Š   •  Ÿ Ÿ  Ÿ   †</Pitch><Phonetic>M`fA ARe ekHy</Phonetic><Orthographic></Orthographic><Gloss>'Here is a funeral.'</Gloss><Dialect> Ejagham  (Cameroon and Nigeria)</Dialect><SoundFile>tx-15b13.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>15c. Ejagham (T3)
+<Word><Pitch>Š   •  Ÿ Ÿ  Ÿ   Ÿ</Pitch><Phonetic>M`fA ARe dZ</Phonetic><Orthographic></Orthographic><Gloss>'Here is a water gourd.'</Gloss><Dialect> Ejagham  (Cameroon and Nigeria)</Dialect><SoundFile>tx-15c01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>Š   •  Ÿ Ÿ  Ÿ   †</Pitch><Phonetic>M`fA ARe dZ</Phonetic><Orthographic></Orthographic><Gloss>'Here are dogs.'</Gloss><Dialect> Ejagham  (Cameroon and Nigeria)</Dialect><SoundFile>tx-15c04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>Š   •  Ÿ Ÿ  Š   …</Pitch><Phonetic>M`fA ARe dZ</Phonetic><Orthographic></Orthographic><Gloss>'Here is tomorrow.'</Gloss><Dialect> Ejagham  (Cameroon and Nigeria)</Dialect><SoundFile>tx-15c07.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>Š   •  Ÿ Ÿ  Š  Ÿ  †</Pitch><Phonetic>M`fA ARe EB«me</Phonetic><Orthographic></Orthographic><Gloss>'Here is a deep forest.'</Gloss><Dialect> Ejagham  (Cameroon and Nigeria)</Dialect><SoundFile>tx-15c10.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>Š   •  Ÿ Ÿ  Š  Š  †</Pitch><Phonetic>M`fA ARe EB«me</Phonetic><Orthographic></Orthographic><Gloss>'Here is a sign language.'</Gloss><Dialect> Ejagham  (Cameroon and Nigeria)</Dialect><SoundFile>tx-15c13.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>16. Flaps and trills
+<Word><Pitch></Pitch><Phonetic>ÈAmbuäu</Phonetic><Orthographic></Orthographic><Gloss>'lip'</Gloss><Dialect>Wagi (Papua New Guinea)</Dialect><SoundFile>tx-16-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈAkHoùREkEùRERA</Phonetic><Orthographic></Orthographic><Gloss>'he taught'</Gloss><Dialect>Zinza (Tanzania)</Dialect><SoundFile>tx-16-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èluru</Phonetic><Orthographic></Orthographic><Gloss>'green'</Gloss><Dialect>Moro (Sudan)</Dialect><SoundFile>tx-16-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>nAnAmÈõur</Phonetic><Orthographic></Orthographic><Gloss>'bamboo'</Gloss><Dialect>Mewtn (New Hebrides)</Dialect><SoundFile>tx-16-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èn5Ap{8A</Phonetic><Orthographic></Orthographic><Gloss>'buzzard'</Gloss><Dialect>Seri (Mexico)</Dialect><SoundFile>tx-16-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>17. Palatals and uvulars
+<Word><Pitch></Pitch><Phonetic>ÈCeCi</Phonetic><Orthographic></Orthographic><Gloss>'man'</Gloss><Dialect>Piro (Peru)</Dialect><SoundFile>tx-17-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>wASAqÈlAx</Phonetic><Orthographic></Orthographic><Gloss>'eighteen'</Gloss><Dialect>Pocomchi (Guatemala)</Dialect><SoundFile>tx-17-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈG«qu8</Phonetic><Orthographic></Orthographic><Gloss>'hard part of a tree'</Gloss><Dialect>Tlinglit (Alaska, USA)</Dialect><SoundFile>tx-17-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ki²ÈqAn</Phonetic><Orthographic></Orthographic><Gloss>'my skirt'</Gloss><Dialect>Northern Totonac (Mexico)</Dialect><SoundFile>tx-17-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èciuks</Phonetic><Orthographic></Orthographic><Gloss>'prickly'</Gloss><Dialect>Seri (Mexico)</Dialect><SoundFile>tx-17-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>18. Ejective stops
+<Word><Pitch></Pitch><Phonetic>k'uN</Phonetic><Orthographic></Orthographic><Gloss>'rotten'</Gloss><Dialect>Tabasco Chontal (Mexico)</Dialect><SoundFile>tx-18-05.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>hoÈp'o</Phonetic><Orthographic></Orthographic><Gloss>'hat'</Gloss><Dialect>Tabasco Chontal</Dialect><SoundFile>tx-18-06.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>t'ot'</Phonetic><Orthographic></Orthographic><Gloss>'snail'</Gloss><Dialect>Tabasco Chontal</Dialect><SoundFile>tx-18-07.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>q'Aj</Phonetic><Orthographic></Orthographic><Gloss>'large'</Gloss><Dialect>Tepehua (Mexico)</Dialect><SoundFile>tx-18-08.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>19. Implosives
+<Word><Pitch></Pitch><Phonetic>ÈëEgE</Phonetic><Orthographic></Orthographic><Gloss>'covered them'</Gloss><Dialect>Nangere (Chad)</Dialect><SoundFile>tx-19-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ºEl</Phonetic><Orthographic></Orthographic><Gloss>'lead'</Gloss><Dialect>Nangere</Dialect><SoundFile>tx-19-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>¹o¹</Phonetic><Orthographic></Orthographic><Gloss>'to be able'</Gloss><Dialect>Tojolabal (Mexico)</Dialect><SoundFile>tx-19-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èk'olonEÂ</Phonetic><Orthographic></Orthographic><Gloss>'a gatherer'</Gloss><Dialect>Cakchiquel (Guatemala)</Dialect><SoundFile>tx-19-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈÏolonEÂ</Phonetic><Orthographic></Orthographic><Gloss>'Savior'</Gloss><Dialect>Cakchiquel</Dialect><SoundFile>tx-19-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>20. Uvular and pharyngeal consonants
+<Word><Pitch></Pitch><Phonetic>ÈtoÒo</Phonetic><Orthographic></Orthographic><Gloss>'bull'</Gloss><Dialect>French</Dialect><SoundFile>tx-20-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èto{o</Phonetic><Orthographic></Orthographic><Gloss>'bull'</Gloss><Dialect>French (variant of above)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èkat5X</Phonetic><Orthographic></Orthographic><Gloss>'four'</Gloss><Dialect>French</Dialect><SoundFile>tx-20-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èkat5{8</Phonetic><Orthographic></Orthographic><Gloss>'four'</Gloss><Dialect>French</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈÖùlAm</Phonetic><Orthographic></Orthographic><Gloss>'world'</Gloss><Dialect>Arabic</Dialect><SoundFile>tx-20-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈðAmRA</Phonetic><Orthographic></Orthographic><Gloss>'red'</Gloss><Dialect>Arabic</Dialect><SoundFile>tx-20-05.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ðAÈliùb</Phonetic><Orthographic></Orthographic><Gloss>'milk'</Gloss><Dialect>Arabic</Dialect><SoundFile>tx-20-06.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>mAnÈqud</Phonetic><Orthographic></Orthographic><Gloss>'paid'</Gloss><Dialect>Arabic</Dialect><SoundFile>tx-20-07.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>21. Palatalization
+<Word><Pitch></Pitch><Phonetic>d6JA</Phonetic><Orthographic></Orthographic><Gloss>'bring'</Gloss><Dialect>Bassa (Liberia)</Dialect><SoundFile>tx-21-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈkJ'Q)ùh")ù</Phonetic><Orthographic></Orthographic><Gloss>'man'</Gloss><Dialect>Kiowa (USA)</Dialect><SoundFile>tx-21-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈkIpùJQ</Phonetic><Orthographic></Orthographic><Gloss>'you are weaving'</Gloss><Dialect>Pame (Mexico)</Dialect><SoundFile>tx-21-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èt6EpA</Phonetic><Orthographic></Orthographic><Gloss>'he bit'</Gloss><Dialect>Oaxaca Chontal (Mexico)</Dialect><SoundFile>tx-21-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èt6JEpA</Phonetic><Orthographic></Orthographic><Gloss>'he fell'</Gloss><Dialect>Oaxaca Chontal</Dialect><SoundFile>tx-21-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>22. Labialization
+<Word><Pitch></Pitch><Phonetic>gWiÈkJHApH</Phonetic><Orthographic></Orthographic><Gloss>'far away'</Gloss><Dialect>Suki (Papua New Guinea)</Dialect><SoundFile>tx-22-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈmWAhtA</Phonetic><Orthographic></Orthographic><Gloss>'raccoon'</Gloss><Dialect>Cora (Mexico)</Dialect><SoundFile>tx-22-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>kWAÈpE</Phonetic><Orthographic></Orthographic><Gloss>'cedar tree'</Gloss><Dialect>Cora</Dialect><SoundFile>tx-22-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>kWAS7ÈpWA</Phonetic><Orthographic></Orthographic><Gloss>'plum'</Gloss><Dialect>Cora</Dialect><SoundFile>tx-22-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>23. Pharyngealization and velarization
+<Word><Pitch></Pitch><Phonetic>Èt³Zin</Phonetic><Orthographic></Orthographic><Gloss>'stew'</Gloss><Dialect>Berber (North Africa)</Dialect><SoundFile>tx-23-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈibD³At</Phonetic><Orthographic></Orthographic><Gloss>'he divided it'</Gloss><Dialect>Berber</Dialect><SoundFile>tx-23-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>tìQÈtìQ</Phonetic><Orthographic></Orthographic><Gloss>'lemon'</Gloss><Dialect>Amuzgo (Mexico)</Dialect><SoundFile>tx-23-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>sìQù/</Phonetic><Orthographic></Orthographic><Gloss>'stack, heap'</Gloss><Dialect>Amuzgo</Dialect><SoundFile>tx-23-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>pìHQ</Phonetic><Orthographic></Orthographic><Gloss>'kind of amulet'</Gloss><Dialect>Amuzgo</Dialect><SoundFile>tx-23-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>24. Approximants, syllabic consonants, open and close transition and echo vowels
+<Word><Pitch></Pitch><Phonetic>ÈfAjgAw8e</Phonetic><Orthographic></Orthographic><Gloss>'I will sleep'</Gloss><Dialect>Kanite (Papua New Guinea)`</Dialect><SoundFile>tx-24-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èpoj4¡pA   or    Èpoj¥pA</Phonetic><Orthographic></Orthographic><Gloss>'he cried out'</Gloss><Dialect>Oaxaca Chontal (Mexico)</Dialect><SoundFile>tx-24-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>m`ÈbombA</Phonetic><Orthographic></Orthographic><Gloss>'anaconda'</Gloss><Dialect>Ndyuka (Suriname)</Dialect><SoundFile>tx-24-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>AÈklokStHpHtSHkH</Phonetic><Orthographic></Orthographic><Gloss>'she carried it up from the beach'</Gloss><Dialect>Chinook (USA)</Dialect><SoundFile>tx-24-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈblA/A(</Phonetic><Orthographic></Orthographic><Gloss>'I arrived'</Gloss><Dialect>Choapan Zapotec (Mexico)</Dialect><SoundFile>tx-24-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>25. Breathy/creaky voiced vowels)
+<Word><Pitch></Pitch><Phonetic>wUt</Phonetic><Orthographic></Orthographic><Gloss>'village'</Gloss><Dialect>Dinka (Sudan)</Dialect><SoundFile>tx-25-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>wU-t</Phonetic><Orthographic></Orthographic><Gloss>'ostrich'</Gloss><Dialect>Dinka</Dialect><SoundFile>tx-25-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈkWmI</Phonetic><Orthographic></Orthographic><Gloss>'your chair'</Gloss><Dialect>Shilluk (Eastern Sudan)</Dialect><SoundFile>tx-25-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈkWmIÐ</Phonetic><Orthographic></Orthographic><Gloss>'chairs'</Gloss><Dialect>Shilluk</Dialect><SoundFile>tx-25-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈnA0/A0</Phonetic><Orthographic></Orthographic><Gloss>'I, me'</Gloss><Dialect>Isthmus Zapotec (Mexico)</Dialect><SoundFile>tx-25-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>SkE0)</Phonetic><Orthographic></Orthographic><Gloss>'thin'</Gloss><Dialect>Highland Mazatec (Mexico)</Dialect><SoundFile>tx-25-05.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èwi¼/i¼áwA</Phonetic><Orthographic></Orthographic><Gloss>'he watches you'</Gloss><Dialect>Oaxaca Chontal (Mexico)</Dialect><SoundFile>tx-25-06.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>26. Murmured (breathy voiced) stops
+<Word><Pitch></Pitch><Phonetic>b«ÈhAj</Phonetic><Orthographic></Orthographic><Gloss>'caused to flow'</Gloss><Dialect>Hindustani (India)</Dialect><SoundFile>tx-26-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>b-Aj</Phonetic><Orthographic></Orthographic><Gloss>'brother'</Gloss><Dialect>Hindustani</Dialect><SoundFile>tx-26-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>dZ«l</Phonetic><Orthographic></Orthographic><Gloss>'water'</Gloss><Dialect>Hindi (India)</Dialect><SoundFile>tx-26-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>d-Z-«l</Phonetic><Orthographic></Orthographic><Gloss>'glimmer'</Gloss><Dialect>Hindi</Dialect><SoundFile>tx-26-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>gAn</Phonetic><Orthographic></Orthographic><Gloss>'song'</Gloss><Dialect>Hindi</Dialect><SoundFile>tx-26-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>g-An</Phonetic><Orthographic></Orthographic><Gloss>'kind of bundle'</Gloss><Dialect>Hindi</Dialect><SoundFile>tx-26-05.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>27. Clicks
+<Word><Pitch></Pitch><Phonetic>È–hA–hA</Phonetic><Orthographic></Orthographic><Gloss>'to shell beans' </Gloss><Dialect>Zulu (South Africa)</Dialect><SoundFile>tx-27-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>È„ho„hA</Phonetic><Orthographic></Orthographic><Gloss>'to prod'</Gloss><Dialect>Zulu</Dialect><SoundFile>tx-27-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>È—hAtHA</Phonetic><Orthographic></Orthographic><Gloss>'to cause a fight'</Gloss><Dialect>Zulu</Dialect><SoundFile>tx-27-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈgƒŽokA</Phonetic><Orthographic></Orthographic><Gloss>'to dress up'</Gloss><Dialect>Zulu</Dialect><SoundFile>tx-27-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Ègƒ„obA</Phonetic><Orthographic></Orthographic><Gloss>'pound'</Gloss><Dialect>Zulu</Dialect><SoundFile>tx-27-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈNƒŽoNƒŽA</Phonetic><Orthographic></Orthographic><Gloss>'gather unripe corn'</Gloss><Dialect>Zulu</Dialect><SoundFile>tx-27-05.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>28. Double articulations
+<Word><Pitch></Pitch><Phonetic>ÈgƒbAgƒbA</Phonetic><Orthographic></Orthographic><Gloss>'to forget'</Gloss><Dialect>Yoruba (Nigeria)</Dialect><SoundFile>tx-28-00.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈkƒppU/</Phonetic><Orthographic></Orthographic><Gloss>'ignorant'</Gloss><Dialect>Kate (Papua New Guinea)</Dialect><SoundFile>tx-28-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈtƒpsAtƒpsA</Phonetic><Orthographic></Orthographic><Gloss>'roasted'</Gloss><Dialect>Margi (Nigeria)</Dialect><SoundFile>tx-28-02.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>nƒmA</Phonetic><Orthographic></Orthographic><Gloss>'mouth'</Gloss><Dialect>Margi</Dialect><SoundFile>tx-28-03.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>gƒbJAN</Phonetic><Orthographic></Orthographic><Gloss>'naked'</Gloss><Dialect>Jju (or Kaje) (Nigeria)</Dialect><SoundFile>tx-28-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>29. Prenasalized stops
+<Word><Pitch>   •  •</Pitch><Phonetic>&lt;dikA</Phonetic><Orthographic></Orthographic><Gloss>'banana'</Gloss><Dialect>Ocotepec Mixtec (Mexico)</Dialect><SoundFile>tx-29-01.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>    Š  Ÿ</Pitch><Phonetic>Ngo)/o)</Phonetic><Orthographic></Orthographic><Gloss>'let's go'</Gloss><Dialect>Ocotepec Mixtec</Dialect><SoundFile>tx-29-04.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>Š   Š    Ÿ</Pitch><Phonetic>AÈne&lt;dA</Phonetic><Orthographic></Orthographic><Gloss>'he is backward in growth'</Gloss><Dialect>Tiv (Nigeria)</Dialect><SoundFile>tx-29-07.wav</SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch>      •  •</Pitch><Phonetic>ÈmpQ)hQ)</Phonetic><Orthographic></Orthographic><Gloss>'Friday'</Gloss><Dialect>Otomi (Mexico)</Dialect><SoundFile>tx-29-09.wav</SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+<Category>Review List
+<Word><Pitch></Pitch><Phonetic>bA(0o(0</Phonetic><Orthographic></Orthographic><Gloss>'she grinds'</Gloss><Dialect>Highland Mazatec (Mexico)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>È/bQ/A)</Phonetic><Orthographic></Orthographic><Gloss>'what is it?'</Gloss><Dialect>Otomi (Mexico)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èºodö</Phonetic><Orthographic></Orthographic><Gloss>'it is already sown'</Gloss><Dialect>Mazahua (Mexico)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>b-Aj</Phonetic><Orthographic></Orthographic><Gloss>'brother!'</Gloss><Dialect>Gujerati (India)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>¹AÈk'EtH</Phonetic><Orthographic></Orthographic><Gloss>'meat'</Gloss><Dialect>Tojolabal (Mexico)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>tìQÈtìQ</Phonetic><Orthographic></Orthographic><Gloss>'lemon'</Gloss><Dialect>Amuzgo (Mexico)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>kiÈkJA)ts'</Phonetic><Orthographic></Orthographic><Gloss>'lay a light object on something'</Gloss><Dialect>Pame (Mexico)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>nA/ANÈkAns5is5AùS7µ</Phonetic><Orthographic></Orthographic><Gloss>'I shaved myself'</Gloss><Dialect>Cora (Mexico)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈEùsikiRi</Phonetic><Orthographic></Orthographic><Gloss>'donkey'</Gloss><Dialect>Zinza (Tanzania)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈkHAri</Phonetic><Orthographic></Orthographic><Gloss>'giraffe'</Gloss><Dialect>Moru (Sudan or Cote d'Ivoire?)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>SAmõ`</Phonetic><Orthographic></Orthographic><Gloss>'ant lion'</Gloss><Dialect>Amuzgo (Mexico)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>liÈfum8pA</Phonetic><Orthographic></Orthographic><Gloss>'the fat person'</Gloss><Dialect>Oaxaca Chontal (Mexico)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>ÈÂolA</Phonetic><Orthographic></Orthographic><Gloss>'to overpower'</Gloss><Dialect>Suto (South Africa)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>AmAÈLozi</Phonetic><Orthographic></Orthographic><Gloss>'spirits'</Gloss><Dialect>Zulu (South Africa)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Ègƒbogƒbo</Phonetic><Orthographic></Orthographic><Gloss>'all'</Gloss><Dialect>Yoruba (Nigeria)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>uÈNƒŽeNƒŽeNƒŽe</Phonetic><Orthographic></Orthographic><Gloss>'a tinkling thing'</Gloss><Dialect>Zulu (South Africa)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>È—7hAtHA</Phonetic><Orthographic></Orthographic><Gloss>'to cause a fight'</Gloss><Dialect>Zulu</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>RIÐn</Phonetic><Orthographic></Orthographic><Gloss>'run'</Gloss><Dialect>Dinka (Sudan)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>Èt6AtA</Phonetic><Orthographic></Orthographic><Gloss>'his father'</Gloss><Dialect>Zoque (Mexico)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+<Word><Pitch></Pitch><Phonetic>AÈtSokHtsHkHtAmit|</Phonetic><Orthographic></Orthographic><Gloss>'he roasts her'</Gloss><Dialect>Chinook (USA)</Dialect><SoundFile></SoundFile><GraphicFile></GraphicFile></Word>
+</Category>
+</Categories>
+</IPAWordListDef>
