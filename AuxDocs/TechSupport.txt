@@ -1,0 +1,18 @@
+
+IPA Help 2.1 Technical Support
+
+IPA Help is distributed as freeware. As such, no warranty or free personalized technical support from SIL International will be provided. The following sources provide technical information:
+
++ Search the Help menu 
+
++ Read the Known Issues in the ReadMe.rtf
+
++ Read the service bulletins on the SIL Language Freeware Disc by either 
+    - Select the "Software Support" button on the autorun menu or
+    - Open the Index.htm file in the \SILSoftwareSupport\ folder.
+
++ Read the latest technical support information on 
+   www.sil.org/computing/ipahelp/index.htm.
+
+
+
