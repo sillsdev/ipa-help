@@ -6,5 +6,7 @@ The application was originally developed with VB6.  The implementation was depen
 
 The source code code for the project has been migrated to VS2010, but no work has been done to remove the original dependency on the Sheridan control.  The code to presently compile, but has many errors.
 
+The original VB6 source files are stored on the VB6 branch for reference only.
+
 The application is deployed with non-open source audio and data files.  These files are not included in this repository.
 
