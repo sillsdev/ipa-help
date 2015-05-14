@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <MyType>WindowsForms</MyType>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{393AEEBB-E230-4A0B-A6B7-C9AA3A41BDE0}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <AssemblyName>IPAHelp</AssemblyName>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>IPAHelp.My.MyApplication</StartupObject>
+    <AssemblyMajorVersion>2</AssemblyMajorVersion>
+    <AssemblyMinorVersion>1</AssemblyMinorVersion>
+    <AssemblyRevisionNumber>0</AssemblyRevisionNumber>
+    <GenerateRevisionNumber>False</GenerateRevisionNumber>
+    <AssemblyCompanyName>SIL International</AssemblyCompanyName>
+    <StartWithIE>False</StartWithIE>
+    <ApplicationIcon>IPA-Help.ico</ApplicationIcon>
+    <RootNamespace>IPAHelp</RootNamespace>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>.\bin\</OutputPath>
+    <DocumentationFile>IPAHelp.xml</DocumentationFile>
+    <DebugSymbols>True</DebugSymbols>
+    <DefineDebug>True</DefineDebug>
+    <DefineTrace>True</DefineTrace>
+    <DefineConstants>
+    </DefineConstants>
+    <PlatformTarget>x86</PlatformTarget>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>.\bin\</OutputPath>
+    <DocumentationFile>IPAHelp.xml</DocumentationFile>
+    <DebugSymbols>False</DebugSymbols>
+    <DefineDebug>False</DefineDebug>
+    <DefineTrace>True</DefineTrace>
+    <DefineConstants>Win32=True</DefineConstants>
+    <PlatformTarget>x86</PlatformTarget>
+    <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
+    <DebugType>none</DebugType>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <COMReference Include="MSXML2">
+      <Guid>{F5078F18-C551-11D3-89B9-0000F81FE221}</Guid>
+      <VersionMajor>6</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <Reference Include="Microsoft.VisualBasic.Compatibility">
+      <Name>Microsoft.VisualBasic.Compatibility</Name>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.XML">
+      <Name>System.XML</Name>
+    </Reference>
+    <COMReference Include="avHyperLink">
+      <Guid>{D1098D84-3ADB-11D4-99CB-E0E24AC10000}</Guid>
+      <Lcid>0</Lcid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <WrapperTool>tlbimp</WrapperTool>
+    </COMReference>
+    <COMReference Include="AxavHyperLink">
+      <Guid>{D1098D84-3ADB-11D4-99CB-E0E24AC10000}</Guid>
+      <Lcid>0</Lcid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <WrapperTool>aximp</WrapperTool>
+    </COMReference>
+    <COMReference Include="AxMCI">
+      <Guid>{C1A8AF28-1257-101B-8FB0-0020AF039CA3}</Guid>
+      <Lcid>0</Lcid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <WrapperTool>aximp</WrapperTool>
+    </COMReference>
+    <COMReference Include="AxMSComCtl2">
+      <Guid>{86CF1D34-0C5F-11D2-A9FC-0000F8754DA1}</Guid>
+      <Lcid>0</Lcid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <WrapperTool>aximp</WrapperTool>
+    </COMReference>
+    <COMReference Include="AxMSFlexGridLib">
+      <Guid>{5E9E78A0-531B-11CF-91F6-C2863C385E30}</Guid>
+      <Lcid>0</Lcid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <WrapperTool>aximp</WrapperTool>
+    </COMReference>
+    <COMReference Include="MCI">
+      <Guid>{C1A8AF28-1257-101B-8FB0-0020AF039CA3}</Guid>
+      <Lcid>0</Lcid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <WrapperTool>tlbimp</WrapperTool>
+    </COMReference>
+    <COMReference Include="MSComCtl2">
+      <Guid>{86CF1D34-0C5F-11D2-A9FC-0000F8754DA1}</Guid>
+      <Lcid>0</Lcid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <WrapperTool>tlbimp</WrapperTool>
+    </COMReference>
+    <COMReference Include="MSFlexGridLib">
+      <Guid>{5E9E78A0-531B-11CF-91F6-C2863C385E30}</Guid>
+      <Lcid>0</Lcid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <WrapperTool>tlbimp</WrapperTool>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="Microsoft.VisualBasic.Compatibility" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ABOUT.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>ABOUT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ABOUT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AMERCON.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>AMERCON.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AMERCON.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="amercon2.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>amercon2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="amercon2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="amerdia2.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>amerdia2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="amerdia2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ameroth2.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>ameroth2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ameroth2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AMERVOW.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>AMERVOW.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AMERVOW.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="amervow2.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>amervow2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="amervow2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.vb" />
+    <Compile Include="AxHyperLinkLabelArray.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AxUpDownArray.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Capture.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DIAGARTR.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>DIAGARTR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIAGARTR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DIAGPTAR.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>DIAGPTAR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DIAGPTAR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DISPCON.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>DISPCON.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DISPCON.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DISPDIA.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>DISPDIA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DISPDIA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DISPSSEG.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>DISPSSEG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DISPSSEG.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DISPVOW.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>DISPVOW.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DISPVOW.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditFonts.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>EditFonts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditFonts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FILEPATH.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>FILEPATH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FILEPATH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GetSoundFile.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>GetSoundFile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GetSoundFile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="globals.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="LineShapeArray.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>MainMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIMain.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>MDIMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDIMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="OvalShapeArray.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Prefrnce.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>Prefrnce.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Prefrnce.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RectangleShapeArray.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RenameWLTitle.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>RenameWLTitle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RenameWLTitle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SheridanNotSSGrid.Designer.vb">
+      <DependentUpon>SheridanNotSSGrid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SheridanNotSSGrid.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tstsetup.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>Tstsetup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tstsetup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WINAPI.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Wlplayer.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="wordlist.Designer.vb">
+      <SubType>Code</SubType>
+      <DependentUpon>wordlist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="wordlist.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XMLWordList.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <None Include="app.manifest" />
+    <None Include="Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <EmbeddedResource Include="ABOUT.resX">
+      <DependentUpon>ABOUT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AMERCON.resX">
+      <DependentUpon>AMERCON.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="amercon2.resX">
+      <DependentUpon>amercon2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="amerdia2.resX">
+      <DependentUpon>amerdia2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ameroth2.resX">
+      <DependentUpon>ameroth2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AMERVOW.resX">
+      <DependentUpon>AMERVOW.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="amervow2.resX">
+      <DependentUpon>amervow2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIAGARTR.resX">
+      <DependentUpon>DIAGARTR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DIAGPTAR.resX">
+      <DependentUpon>DIAGPTAR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DISPCON.resX">
+      <DependentUpon>DISPCON.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DISPDIA.resX">
+      <DependentUpon>DISPDIA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DISPSSEG.resX">
+      <DependentUpon>DISPSSEG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DISPVOW.resX">
+      <DependentUpon>DISPVOW.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditFonts.resX">
+      <DependentUpon>EditFonts.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FILEPATH.resX">
+      <DependentUpon>FILEPATH.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GetSoundFile.resX">
+      <DependentUpon>GetSoundFile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resX">
+      <DependentUpon>MainMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIMain.resX">
+      <DependentUpon>MDIMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prefrnce.resX">
+      <DependentUpon>Prefrnce.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RenameWLTitle.resX">
+      <DependentUpon>RenameWLTitle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tstsetup.resX">
+      <DependentUpon>Tstsetup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wordlist.resX">
+      <DependentUpon>wordlist.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Content Include="IPA-Help.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>
