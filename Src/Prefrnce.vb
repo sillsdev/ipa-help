@@ -92,7 +92,7 @@ Friend Class frmPreferences
 
         Dim result As DialogResult
         result = dlg.ShowDialog()
-        If (result = Windows.Forms.DialogResult.Cancel) Then
+        If (result = System.Windows.Forms.DialogResult.Cancel) Then
             GoTo GetWLFileSpecErr
         End If
 
@@ -345,7 +345,7 @@ GetWLFileSpecErr:
 
             Dim result As DialogResult
             result = dlg.ShowDialog()
-            If (result = Windows.Forms.DialogResult.Cancel) Then
+            If (result = System.Windows.Forms.DialogResult.Cancel) Then
                 Exit Sub
             End If
 

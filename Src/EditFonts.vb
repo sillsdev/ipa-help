@@ -114,7 +114,7 @@ Friend Class frmEditFonts
 
         Dim result As System.Windows.Forms.DialogResult
         result = dlg.ShowDialog()
-        If (result = Windows.Forms.DialogResult.Cancel) Then
+        If (result = System.Windows.Forms.DialogResult.Cancel) Then
             GoTo cmdChange_Canceled
         End If
 

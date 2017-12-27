@@ -286,8 +286,8 @@
 		Me._lblss_8.BorderStyle = System.Windows.Forms.BorderStyle.None
 		Me._lblss_8.Name = "_lblss_8"
 		Me._lblss_7.TextAlign = System.Drawing.ContentAlignment.TopCenter
-		Me._lblss_7.Text = "eî"
-		Me._lblss_7.Font = New System.Drawing.Font("ASAP SILManuscript", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
+        Me._lblss_7.Text = "\u65 \u94"
+        Me._lblss_7.Font = New System.Drawing.Font("ASAP SILManuscript", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
 		Me._lblss_7.ForeColor = System.Drawing.SystemColors.WindowText
 		Me._lblss_7.Size = New System.Drawing.Size(13, 26)
 		Me._lblss_7.Location = New System.Drawing.Point(288, 96)
@@ -302,8 +302,8 @@
 		Me._lblss_7.BorderStyle = System.Windows.Forms.BorderStyle.None
 		Me._lblss_7.Name = "_lblss_7"
 		Me._lblss_6.TextAlign = System.Drawing.ContentAlignment.TopCenter
-		Me._lblss_6.Text = "eè"
-		Me._lblss_6.Font = New System.Drawing.Font("ASAP SILManuscript", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
+		Me._lblss_6.Text = "/u65/u8fè"
+        Me._lblss_6.Font = New System.Drawing.Font("ASAP SILManuscript", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
 		Me._lblss_6.ForeColor = System.Drawing.SystemColors.WindowText
 		Me._lblss_6.Size = New System.Drawing.Size(13, 26)
 		Me._lblss_6.Location = New System.Drawing.Point(288, 74)
@@ -350,7 +350,7 @@
 		Me._lblss_13.BorderStyle = System.Windows.Forms.BorderStyle.None
 		Me._lblss_13.Name = "_lblss_13"
 		Me._lblss_12.TextAlign = System.Drawing.ContentAlignment.TopCenter
-		Me._lblss_12.Text = "eù"
+		Me._lblss_12.Text = "/u65/u9Dù"
 		Me._lblss_12.Font = New System.Drawing.Font("ASAP SILManuscript", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
 		Me._lblss_12.ForeColor = System.Drawing.SystemColors.WindowText
 		Me._lblss_12.Size = New System.Drawing.Size(12, 26)
@@ -463,7 +463,7 @@
 		Me._Label1_26.Name = "_Label1_26"
 		Me._Label1_25.TextAlign = System.Drawing.ContentAlignment.TopCenter
 		Me._Label1_25.BackColor = System.Drawing.Color.Transparent
-		Me._Label1_25.Text = "or"
+		Me._Label1_25.Text = "Or"
 		Me._Label1_25.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
 		Me._Label1_25.ForeColor = System.Drawing.SystemColors.WindowText
 		Me._Label1_25.Size = New System.Drawing.Size(9, 13)
@@ -479,7 +479,7 @@
 		Me._Label1_25.Name = "_Label1_25"
 		Me._Label1_44.TextAlign = System.Drawing.ContentAlignment.TopCenter
 		Me._Label1_44.BackColor = System.Drawing.Color.Transparent
-		Me._Label1_44.Text = "or"
+		Me._Label1_44.Text = "Or"
 		Me._Label1_44.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
 		Me._Label1_44.ForeColor = System.Drawing.SystemColors.WindowText
 		Me._Label1_44.Size = New System.Drawing.Size(9, 13)
@@ -670,7 +670,7 @@
 		Me._Label1_3.BorderStyle = System.Windows.Forms.BorderStyle.None
 		Me._Label1_3.Name = "_Label1_3"
 		Me._Label1_4.BackColor = System.Drawing.Color.Transparent
-		Me._Label1_4.Text = "Half-long"
+		Me._Label1_4.Text = "Half-Long"
 		Me._Label1_4.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
 		Me._Label1_4.ForeColor = System.Drawing.SystemColors.WindowText
 		Me._Label1_4.Size = New System.Drawing.Size(42, 13)
@@ -702,7 +702,7 @@
 		Me._Label1_1.BorderStyle = System.Windows.Forms.BorderStyle.None
 		Me._Label1_1.Name = "_Label1_1"
 		Me._Label1_5.BackColor = System.Drawing.Color.Transparent
-		Me._Label1_5.Text = "Extra-short"
+		Me._Label1_5.Text = "Extra-Short"
 		Me._Label1_5.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
 		Me._Label1_5.ForeColor = System.Drawing.SystemColors.WindowText
 		Me._Label1_5.Size = New System.Drawing.Size(50, 13)
@@ -749,7 +749,7 @@
 		Me._Label1_7.AutoSize = True
 		Me._Label1_7.BorderStyle = System.Windows.Forms.BorderStyle.None
 		Me._Label1_7.Name = "_Label1_7"
-		Me._lblss_0.Text = "«foUn´»tIS´n"
+		Me._lblss_0.Text = "/uC7 /u66 /u6F /u55 /u6E /uAB /uC8 /u74 /u49 /u53 /uAB /u6E"
 		Me._lblss_0.Font = New System.Drawing.Font("ASAP SILManuscript", 12!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
 		Me._lblss_0.ForeColor = System.Drawing.SystemColors.WindowText
 		Me._lblss_0.Size = New System.Drawing.Size(120, 22)
@@ -766,7 +766,7 @@
 		Me._lblss_0.BorderStyle = System.Windows.Forms.BorderStyle.None
 		Me._lblss_0.Name = "_lblss_0"
 		Me._Label1_9.BackColor = System.Drawing.Color.Transparent
-		Me._Label1_9.Text = "Linking (absence of a break)"
+		Me._Label1_9.Text = "Linking (absence Of a break)"
 		Me._Label1_9.Font = New System.Drawing.Font("Arial", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
 		Me._Label1_9.ForeColor = System.Drawing.SystemColors.WindowText
 		Me._Label1_9.Size = New System.Drawing.Size(135, 13)
@@ -862,7 +862,7 @@
 		Me._Label1_22.BorderStyle = System.Windows.Forms.BorderStyle.None
 		Me._Label1_22.Name = "_Label1_22"
 		Me._lblss_5.TextAlign = System.Drawing.ContentAlignment.TopCenter
-		Me._lblss_5.Text = "eâ"
+		Me._lblss_5.Text = "\u65 \u89"
 		Me._lblss_5.Font = New System.Drawing.Font("ASAP SILManuscript", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
 		Me._lblss_5.ForeColor = System.Drawing.SystemColors.WindowText
 		Me._lblss_5.Size = New System.Drawing.Size(13, 26)
@@ -878,7 +878,7 @@
 		Me._lblss_5.BorderStyle = System.Windows.Forms.BorderStyle.None
 		Me._lblss_5.Name = "_lblss_5"
 		Me._Label1_40.TextAlign = System.Drawing.ContentAlignment.TopCenter
-		Me._Label1_40.Text = "õ"
+		Me._Label1_40.Text = "\u9b"
 		Me._Label1_40.Font = New System.Drawing.Font("ASAP SILManuscript", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
 		Me._Label1_40.ForeColor = System.Drawing.SystemColors.WindowText
 		Me._Label1_40.Size = New System.Drawing.Size(19, 23)
@@ -894,7 +894,7 @@
 		Me._Label1_40.BorderStyle = System.Windows.Forms.BorderStyle.None
 		Me._Label1_40.Name = "_Label1_40"
 		Me._Label1_42.TextAlign = System.Drawing.ContentAlignment.TopCenter
-		Me._Label1_42.Text = "ã"
+		Me._Label1_42.Text = "\u8b"
 		Me._Label1_42.Font = New System.Drawing.Font("ASAP SILManuscript", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
 		Me._Label1_42.ForeColor = System.Drawing.SystemColors.WindowText
 		Me._Label1_42.Size = New System.Drawing.Size(19, 23)
@@ -926,7 +926,7 @@
 		Me._Label1_24.BorderStyle = System.Windows.Forms.BorderStyle.None
 		Me._Label1_24.Name = "_Label1_24"
 		Me._Label1_28.TextAlign = System.Drawing.ContentAlignment.TopCenter
-		Me._Label1_28.Text = "ë"
+		Me._Label1_28.Text = "'"
 		Me._Label1_28.Font = New System.Drawing.Font("ASAP SILManuscript", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
 		Me._Label1_28.ForeColor = System.Drawing.SystemColors.WindowText
 		Me._Label1_28.Size = New System.Drawing.Size(19, 23)

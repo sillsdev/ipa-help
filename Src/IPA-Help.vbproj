@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectType>Local</ProjectType>
     <MyType>WindowsForms</MyType>
@@ -21,7 +21,7 @@
     <RootNamespace>IPAHelp</RootNamespace>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <UpgradeBackupLocation>
     </UpgradeBackupLocation>
     <OldToolsVersion>3.5</OldToolsVersion>
@@ -40,6 +40,7 @@
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <OutputPath>.\bin\</OutputPath>
@@ -53,6 +54,7 @@
     <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
     <DebugType>full</DebugType>
     <UseVSHostingProcess>false</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <OutputPath>.\bin\</OutputPath>
@@ -64,6 +66,7 @@
     <PlatformTarget>x86</PlatformTarget>
     <NoWarn>42016,42017,42018,42019,42032,42353,42354,42355</NoWarn>
     <DebugType>none</DebugType>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup />
   <PropertyGroup>
@@ -91,7 +94,8 @@
     <Reference Include="Microsoft.VisualBasic.Compatibility">
       <Name>Microsoft.VisualBasic.Compatibility</Name>
     </Reference>
-    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Design, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
     <Reference Include="System">
       <Name>System</Name>
     </Reference>
@@ -370,6 +374,7 @@
     <Compile Include="XMLWordList.vb">
       <SubType>Code</SubType>
     </Compile>
+    <None Include="app.config" />
     <None Include="app.manifest" />
     <None Include="Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
@@ -461,6 +466,9 @@
       <ProductName>Windows Installer 3.1</ProductName>
       <Install>true</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="My Project\" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
   <PropertyGroup>

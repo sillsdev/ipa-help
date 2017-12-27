@@ -909,8 +909,8 @@
 		Me._lblss_8.BorderStyle = System.Windows.Forms.BorderStyle.None
 		Me._lblss_8.Name = "_lblss_8"
 		Me._lblss_7.TextAlign = System.Drawing.ContentAlignment.TopCenter
-		Me._lblss_7.Text = " ”"
-		Me._lblss_7.Font = New System.Drawing.Font("ASAP SILManuscript", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
+        Me._lblss_7.Text = " \u94"
+        Me._lblss_7.Font = New System.Drawing.Font("ASAP SILManuscript", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
 		Me._lblss_7.ForeColor = System.Drawing.SystemColors.WindowText
 		Me._lblss_7.Size = New System.Drawing.Size(13, 27)
 		Me._lblss_7.Location = New System.Drawing.Point(366, 249)
@@ -925,8 +925,8 @@
 		Me._lblss_7.BorderStyle = System.Windows.Forms.BorderStyle.None
 		Me._lblss_7.Name = "_lblss_7"
 		Me._lblss_6.TextAlign = System.Drawing.ContentAlignment.TopCenter
-		Me._lblss_6.Text = " ™"
-		Me._lblss_6.Font = New System.Drawing.Font("ASAP SILManuscript", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
+		Me._lblss_6.Text = " /u99"
+        Me._lblss_6.Font = New System.Drawing.Font("ASAP SILManuscript", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
 		Me._lblss_6.ForeColor = System.Drawing.SystemColors.WindowText
 		Me._lblss_6.Size = New System.Drawing.Size(13, 27)
 		Me._lblss_6.Location = New System.Drawing.Point(365, 234)
@@ -941,7 +941,7 @@
 		Me._lblss_6.BorderStyle = System.Windows.Forms.BorderStyle.None
 		Me._lblss_6.Name = "_lblss_6"
 		Me._lblss_5.TextAlign = System.Drawing.ContentAlignment.TopCenter
-		Me._lblss_5.Text = " ‰"
+		Me._lblss_5.Text = " /u89"
 		Me._lblss_5.Font = New System.Drawing.Font("ASAP SILManuscript", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
 		Me._lblss_5.ForeColor = System.Drawing.SystemColors.WindowText
 		Me._lblss_5.Size = New System.Drawing.Size(13, 27)
@@ -973,7 +973,7 @@
 		Me._label1_24.BorderStyle = System.Windows.Forms.BorderStyle.None
 		Me._label1_24.Name = "_label1_24"
 		Me._label1_28.TextAlign = System.Drawing.ContentAlignment.TopCenter
-		Me._label1_28.Text = "‘"
+		Me._label1_28.Text = "'"
 		Me._label1_28.Font = New System.Drawing.Font("ASAP SILManuscript", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(2, Byte))
 		Me._label1_28.ForeColor = System.Drawing.SystemColors.WindowText
 		Me._label1_28.Size = New System.Drawing.Size(19, 23)

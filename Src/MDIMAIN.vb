@@ -797,9 +797,9 @@ MDIFormLoadErr:
 	
 	Private Sub TBar_ButtonClick(ByVal eventSender As System.Object, ByVal eventArgs As System.EventArgs) Handles _TBar_Button1.Click, _TBar_Button2.Click, _TBar_Button3.Click, _TBar_Button4.Click, _TBar_Button5.Click, _TBar_Button6.Click, _TBar_Button7.Click, _TBar_Button8.Click, _TBar_Button9.Click, _TBar_Button10.Click, _TBar_Button11.Click, _TBar_Button12.Click, _TBar_Button13.Click, _TBar_Button14.Click, _TBar_Button15.Click, _TBar_Button16.Click
 
-        Dim Button As System.Windows.Forms.ToolStripMenuItem = CType(eventSender, System.Windows.Forms.ToolStripMenuItem)
-		
-		On Error Resume Next
+        Dim Button As System.Windows.Forms.ToolStripButton = CType(eventSender, System.Windows.Forms.ToolStripButton)
+
+        On Error Resume Next
 		
 		Select Case Button.Name
             Case "Exit"

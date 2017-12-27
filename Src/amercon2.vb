@@ -21,9 +21,9 @@ Friend Class frmDispAmerCon2
 			.panStatus.Visible = True
 			.mnuTest.Enabled = False '* Disable test menu.
 		End With
-		
-		SetBounds(0, VB6.TwipsToPixelsY(15), 0, 0, Windows.Forms.BoundsSpecified.X Or Windows.Forms.BoundsSpecified.Y)
-		gStatLine.Text = ""
+
+        SetBounds(0, VB6.TwipsToPixelsY(15), 0, 0, System.Windows.Forms.BoundsSpecified.X Or System.Windows.Forms.BoundsSpecified.Y)
+        gStatLine.Text = ""
 		
 		For	Each frm In My.Application.OpenForms
 			If frm.Name <> "mdiHelpCharts" Then frm.Top = 0
